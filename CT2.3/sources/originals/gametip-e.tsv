@@ -1,0 +1,226 @@
+﻿# id	int1	int2	enable	tip
+1	3	101	1	Drag Spiritshots and Soulshots to your shortcut bar and right-click their icons to enable auto-use.
+2	2	102	1	The Grand Olympiad runs daily from 8:00 PM CST to 12:00 AM CST\n(8:00 PM GMT+1 to 12:00 AM GMT+1 on the Teon and Franz servers).
+3	2	0	1	"If you'd like to run 2 accounts from one computer (at a PC café, for instance), make sure one is a fixed amount account."
+4	2	0	1	"One game day comprises of 4 hours of real world time. In every game day, 3 hours are allocated for daylight and 1 hour for night time.\n Use the ""/time"" command to check the current game time."
+5	3	0	1	You can change the camera perspective by using the Page Up and Page Down keys.
+6	3	0	1	You can toggle between chat windows by using the Alt + Page Up and Alt + Page Down keys.
+7	3	0	1	Regular game maintenance is performed every Tuesday from 10:00 AM - 12:00 PM CST (5:00 PM GMT+1 to 7:00 PM GMT+1).
+8	1	0	0	"Private warehouse inventory quantity includes arriving freight cargo as well as the number of items already in storage. "
+9	1	0	1	"To reset windows to their default location, select Option > Audio/System tab > Initialize button ."
+10	3	101	1	"Invite or delete friends in the game with the ""/friendinvite"" and ""/frienddel"" commands.\n View and manage your friend list using ""/friendlist""."
+11	2	101	1	"Characters created from the same account cannot share a warehouse.\nTo transfer items from one warehouse to another, speak to a warehouse freightman about the freight service option."
+12	3	0	1	"You can identify the quest type by the color of the exclamation point displayed above an NPC's head.\nOrdinary quests are orange, while special quests are blue."
+13	3	0	1	Up to 100 items (120 for Dwarves) can be stored in a character's private warehouse (this includes all items currently in freight).
+14	4	0	1	Click the lock in the lower corner of your shortcut bar to lock the icons displayed there.
+15	3	0	1	"NPCs from the Adventure Guild in each village can provide useful information about quests and raids. "
+16	1	0	1	"Use the ""/block (name)"" command to prevent unwanted private messages from specified players."
+17	3	0	1	"If the fee for an auction-type clan hall is not paid, a payment due message will be displayed.\nIf payment is not made within 7days, the clan hall ownership will be automatically revoked."
+18	4	0	1	"Only castle lords and clan hall owners of Aden clan halls, Fortress of the Dead, and Devastated Castle can ride Wyverns."
+19	3	0	1	"To obtain a new item by summoning or clicking on it, your personal inventory weight gauge must be lower than 80%,\nand you must have more than 10 open slots."
+20	3	0	1	The competition and seal validation period for Seven Signs begins every Monday at 6:00 PM CST.\nPlayers can join Seven Signs by meeting with a village priest or priestess during the competition period.
+21	3	0	1	"If a pet dies, its body will disappear from the server after 24 hours. (This does not apply to pets who starve to death.)"
+22	2	102	1	"The ""Repent Your Sins"" quest cannot be shared between main class and sub-class.\nIf you transfer your class before completing the quest, it is automatically terminated."
+23	3	0	0	Allow approximately 7 days to completely delete a character from your account.
+24	3	0	1	The fishing system offers both night fishing and general fishing. Night fishing is available between 12:00 AM - 6:00 AM (game  time).\nLuminous Bait can only be used for night fishing.
+25	3	0	1	"To switch from fullscreen to windowed mode, press Alt + Enter. Press it again to return to fullscreen mode."
+26	3	102	1	"View Grand Olympiad scores and your individual Olympiad points by using the ""/olympiadstat"" command. "
+27	2	0	1	"Use the ""/clanpenalty"" command to view any current penalties for dismissing clan members or dissolving a clan."
+28	4	101	0	"Use the bulletin board ""bookmark"" function to add a page to your ""favorites"" section."
+29	4	101	1	"Enter and save messages using the bulletin board ""memo"" function."
+30	4	101	1	"Use the bulletin board ""mail"" function to send a message to players not currently logged in."
+31	4	101	1	"Use the ""friends"" bulletin board function to edit your friends list or send a message to someone registered as a friend."
+32	4	101	1	"When choosing ""Screenshot Quality"" in the game options, select bitmap to save as a BMP file in the Lineage II system folder.\nSelect High/Average/Low quality."
+33	2	101	1	"The target window will display characteristics and other information for a monster, and clan and rank information for players."
+34	2	101	1	"With the macro function, use ""%target"" to automatically enter the target's name and\n""%party1-8"" to assign each party member a corresponding number."
+35	4	101	1	"Physical skills are affected by Atk. Spd, while magic skills are affected by Casting Spd."
+36	3	101	1	"During a quest, you can generally press the Target Loc. button on the map to view the quest target's location."
+37	4	102	1	Some head accessory items are created with recipes and items obtained by fishing.
+38	4	102	1	Use the Prize-Winning Fishing Lure to increase your chances of catching a big fish and earning bonuses.
+39	2	102	1	Skills obtained through Proof of Catching a Fish cannot be shared between main and sub-class.
+40	3	0	1	"After entering a request to dissolve a clan, players must wait up to 7 days before the clan is dissolved."
+41	4	0	1	You may only declare a Clan War against a Level 3 or higher clan with 15 or more members.
+42	1	101	1	"Search for items in a village using the ""findprivatestore"" button or ""/findprivatestore"" command."
+43	3	102	0	"If you attempt to log in after 10 minutes following a loss of connection when raiding boss monsters Zaken, Baium or Antharas,\nyou will be forcefully transported to a nearby village."
+44	3	102	1	"When using the command channel while raiding Baium, Antharas or Valakas, a 5 minute looting priority privilege will be\ngiven to the command channel party."
+45	3	102	1	"You can tame monsters while hunting on the Beast Farm. Once tamed, a trained pet can heal, recharge or buff you."
+46	3	0	1	"When naming characters, you may use Korean consonants or Chinese characters."
+47	2	0	1	You can move multiple quantities of the same item by dragging them with the mouse cursor while pressing the Alt key.
+48	3	0	1	"To join the Dusk side during the Seven Signs competition, clans that own a castle or belong to an alliance must withdraw\nbefore 6:00 PM CST on Monday."
+49	2	0	1	"D, C and B grade weapon items can be exchanged through the Blacksmith of Mammon."
+50	3	102	1	"You can improve resurrection by increasing your WIT level, improving Exp restoration by up to 20%."
+51	3	0	1	"Stun resistance is affected by your CON points, while magic resistance is affected by your MEN points."
+52	3	0	1	"You may add a symbol using ordinary dyes after completing your first class transfer, but you must use ""greater"" dyes after your second class transfer."
+53	2	0	1	"To reduce game lag when entering a town, press Alt + P to switch to Lower Detail."
+54	4	0	1	"When adventuring in a party, you will not receive Party Bonus Exp. unless party members are all within less than 20 levels of each other. "
+55	3	102	0	"You can acquire grade 11 and 12 soul crystals by raiding Baium, Zaken, Lilith and Anakim, and grade 13 crystals by\nraiding Antharas, Valakas and Scarlet van Halisha."
+56	3	0	1	Members of a clan or alliance that own a castle may only join the Lords of Dawn.
+57	4	0	1	"If you fish in one spot for too long, your chances of catching a fish may be reduced. "
+58	3	101	0	"To sell several items as one group, use the ""Package Sale"" button in the Actions menu."
+59	4	101	1	You cannot perform a quest normally if your personal inventory weight or item number exceeds 80%.\nTry lowering it before talking to an NPC again.
+60	3	102	1	Skills obtained through clan membership cannot be used during the Grand Olympiad.
+61	4	101	1	Press Num Lock to enable auto-run. Your character will begin moving in the direction you are facing.
+62	3	101	1	"If a friend has been blocked by mistake, use the ""/unblock"" command to resume chatting. "
+63	3	101	1	"If you want privacy, use the ""/allblock"" command to block all whispers. The ""/allunblock"" command will restore your previous status."
+64	3	0	1	"You can increase any given stat by 5 through use of a symbol,  but there is no limit on stat reductions. "
+65	2	101	1	"Use the ""/target"" command to find characters and NPCs. If an NPC name contains a space, you should include it in your search."
+66	3	0	1	Both the Lords of Dawn and the Revolutionaries of Dusk can earn Clan Reputation points during the Festival of Darkness.
+67	3	0	0	"When you create a new character and start the game, be sure to take advantage of the free Gatekeeper teleports (up to level 40)."
+68	4	101	1	"Double-click a recipe to register it in your recipe book.\nDwarf characters can make items using the ""Dwarven Craft"" icon in the skill window."
+69	3	102	1	"Restarting is unavailable in the Lair of Valakas. If you attempt to restart there, you will be moved to the nearest village."
+70	2	0	1	Weapons can be safely enchanted to +3. All enchantment attempts above +3 have a 1 in 3 chance of failure.
+71	4	0	1	"If an enchant item attempt fails, a certain number of crystals will be refunded to the player.\nThe refunded amount is worth roughly half the basic crystallization amount."
+72	4	101	1	"If you use Overhit skills to deal the final blow to a monster, you can acquire additional experience."
+73	2	0	1	"A clan symbol should be saved as a 16 x 12 pixel, 256-color BMP file in the Lineage II system folder.\nUse Edit Crest button in the Clan window to add it."
+74	3	0	1	"Alliance symbols should be saved as 8 x 12 pixel,  256-color BMP files in the Lineage II system folder. "
+75	2	0	1	"Please promote a fun, healthy game environment by refraining from offensive language.\nRemember, behind every character is a real person."
+76	3	0	1	"If you suspect players of using third-party programs, please report their character names to a GM."
+77	1	0	1	"Before making item transactions, please confirm the character's name, clan name, item name, and price to\nprevent inadvertent damage or loss."
+78	2	0	1	"Playing online for extended periods can damage your health. Treat the game like a game and make sure to get plenty of rest. "
+79	2	0	1	Use the petition system to request online help from a GM.
+80	1	0	1	"When using private stores or Dwarven crafting shops,\nplease confirm both the items being sold and the purchase price to prevent inadvertent damage or loss."
+81	2	0	1	"If you are locked in place and unable to move, use the ""/unstuck"" command to move to an adjacent spot.\nIf that doesn't resolve the problem, please report it to a GM."
+82	4	0	1	"Be sure to periodically change your password to preserve account security. "
+83	3	0	1	"If you experience an unexpected error that closes your game client,\nplease visit the Support Center at www.plaync.com."
+84	3	0	1	Inquire about payment and other account-related issues by logging into your account at www.plaync.com.
+85	4	0	1	"If the message ""The frozen condition has started"" pops up and you cannot move, use the ESC key to release\nthe target or select another target and move freely."
+86	1	0	1	Transportation to a village from the Dimensional Rift and Monster Race Track will not be available\nif your weight gauge or number of inventory items exceeds 80%.
+87	3	101	0	"If too many items are left on the ground, you may notice delayed reaction times in the immediate environment (including other characters).\nPlease do your part and periodically pick up your dropped items."
+88	2	0	1	"The fastest route to the Dimensional Rift is to transport to the Festival of Darkness through the priest of Seven Signs,\nand on to the Dimensional Rift via the manager of the Festival of Darkness."
+89	2	0	1	"When paying for the ""personal fixed amount,"" the last day of  the valid period is calculated as hours to use.\nYou will be notified of the time remaining whenever you connect to the game server."
+90	3	0	1	Using another player's account can cause damage and is a violation of the Lineage II User Agreement.
+91	3	0	1	"After reporting account theft, please fax a copy of the resident  registration to 02)2186-3400 within 7 days.\nBe sure to include  the account, name, and server."
+92	3	0	1	"Quests are also available to entire parties. Provided you remain within a certain distance from your party members, you can acquire quest items even if you didn't hunt for them directly."
+93	3	0	0	Account theft mainly occurs when sharing accounts.\nPlease make account security a top priority.
+94	3	102	1	"When dissolving a clan or alliance, the clan leader's experience will be penalized the equivalent of one death.\nBe sure to factor that into your decision."
+95	1	0	1	"Use the minimap to confirm the drop location of Demonic Sword Zariche or Blood Sword Akamanah, as well as find \nthe players currently in possession of the swords."
+96	1	0	1	"Click the Expand button on the shortcut bar to expand the bar up to 3 tiers, and see up to 36 shortcuts simultaneously."
+97	1	0	0	"The Adventurer Guide Book, previously only available for purchase, is now linked to the map.\nAccess the guide by clicking the “World Info.” button on the map window.\nOld Adventurer Guide Books may be returned at a town store for the original purchase price."
+98	1	0	1	Parties can recruit additional members from the Party Matching Waiting List.\nUse this list to find players and send party invites.
+99	4	0	1	"In a hunting ground designed for groups, herbs will not be dropped."
+100	4	102	1	"In order to enter the Pagan Temple, you must complete the one of the following quests:\n“Truths Beyond the Gate"" or “Through the Gate Once More""."
+101	4	102	1	"In the Forest of the Dead, the monsters differ during the day and night."
+102	4	102	1	"If a party of six or more players engage in combat within the walls of The Pagan Temple,\nsome of them may be teleported to another place randomly and without warning."
+103	4	102	1	It is possible to enter the Ice Queen's Castle without completing the related quest by obtaining 10 “Silver Hemocytes.”
+104	4	102	1	"In order to enter the Ice Queen’s Castle, each party member must possess 10 “Silver Hemocytes.”"
+105	4	0	1	"If you select the “Hide Dropped Items” check box located in the Option window's Game tab,\nyou may be able to descrease lag slightly as images pertaining to dropped items will not be shown."
+106	4	0	1	"When you level up, neither HP nor MP will be fully restored within the Festival of Darkness or Dimension Rift."
+107	4	0	0	"Click the ""Track"" button on the minimap to find the locations of Demon Sword Zariche or Blood Sword Akamanah\n when they have been dropped or their owners are connected to the server."
+108	4	0	1	The “Altered Zone” designation indicates an area where both positive and negative buffs may be applied.\n It will appear below your radar in the upper right corner of the screen whenever you enter one of these zones.
+109	4	0	0	"When using the option,“Camera Tracking,"" the camera will naturally follow your character as they move."
+110	4	102	1	"If you activate the “GPU Animation"" option, you may improve your speed in places such as villages, where many characters appear."
+111	4	102	1	"A clan leader may create a clan academy through NPCs (High Priests, Grand Masters, High Prefects, etc.)\nwho are in charge of clan-related activities."
+112	3	101	1	"When a clan academy member completes their second class transfer, the member will receive a commemorative item.\nThis commemorative item will be received at the same time that the second class transfer is completed."
+113	4	102	1	"Since your academy ranking is given when you join the clan academy, this ranking cannot be altered until you drop out or graduate.\nAn academy ranking gives you the privilege to search warehouses and to enter/exit/use the clan hall or castle."
+114	4	101	1	"When you graduate from a clan academy, you are automatically withdrawn from the academy.\nThen, as a graduate of the clan's academy, you can rejoin the clan without incurring any penalties."
+115	4	102	1	"In the clan interface window, sponsored academy members are displayed in yellow and all others in white."
+116	4	102	1	A clan member with master management privileges may select a clan member to sponsor another academy member.\nEach academy member may have only one sponsor.
+117	4	0	1	Alert messages are displayed for academy members and their sponsors when logging in and out\nso that they can know each others' log-in status.
+118	3	102	1	Academy members may acquire a D-grade armor set through joint quests with both fellow academy and regular clan members.
+119	4	101	1	"If you withdraw from an academy after acquiring the special D-grade armor set,\nyou will not automatically lose it.\nOnce you take it off, however, you will be unable to re-equip it."
+120	3	102	1	"When your clan reaches level 6, you will be able to create a Royal Guard.\nA captain must be appointed before the creation of a Royal Guard.\nRoyal Guards may have up to 20 members."
+121	3	102	1	"When your clan reaches level 7, you will be able to create an Order of Knights. A Knight Commander must be\nappointed before the creation of the Order. One Order of Knights may be created for every Royal Guard.\nUp to two Orders of Knights may be created, and each Order may have up to 10 members."
+122	4	102	1	A unit Captain or Commander can be reappointed (changed) through an NPC in charge of clan-related activities.\nThe Clan interface will appear blank when the position has not been filled.
+123	3	0	1	"When you join a Royal Guard or Order of Knights, you continue to participate in clan wars and siege wars normally."
+124	1	0	1	"A ""clan skill"" is a skill that applies to all clan members permanently unless the clan's reputation score is 0 or below."
+125	2	101	1	"When your character attacks another player, even if the player is in a purple state, your name turns purple for a short while."
+126	4	101	1	"Your CP (Combat Will Points) gauge is used to measure your strength in PvP.\nWhen fighting another player or player’s servitor or pet, CP is consumed before HP. "
+127	4	101	1	"Soulshot/Spiritshot have the following grades: No-grade, D-grade, C-grade, B-grade, A-grade, or S-grade.\nOnly weapons with the same grade level may be used with them.\nNo-grade Soulshots and no-grade spiritshots can be bought in most magic and/or grocery shops. "
+128	2	102	1	"A clan leader may click on the ""Edit Affiliation"" button in a clan member’s information window to change their status to\nRoyal Guard or Knight. Status in the clan Acadamy cannot be modified."
+129	3	0	1	"In a mutual clan war, neither your PK count nor your karma will be negatively affected by killing a member of the enemy clan.\nDebuffs can also be cast on enemy clan members."
+130	4	102	1	"When a player who is deemed a hero acquires a cursed weapon, he may not use his heroic skills."
+131	4	0	1	"Select players in the Party Matching Waiting List and invite them to join your party by clicking the ""Rm. Invite"" button.\nA new Party Room will be created, and the selected player(s) will be sent a party invite."
+132	2	0	1	"A character has a chance of suffering death penalties when killed.\nDepending on grade, a character may be healed by a Recovery scroll, or a Black Judge NPC."
+133	3	0	1	"A summoner may summon a party member as long as they are holding a ""Summoning Crystal.""\nHowever, if they are located or battling in the Olympiad Stadium, or if they are dead, they cannot be summoned."
+134	3	101	0	"Characters below level 63 are eligible to receive beginner’s bonuses, so be sure to visit a Newbie Guide or Adventurers' Guide."
+135	4	0	0	"Be aware that weapon upgrade scrolls obtained from the Blacksmith of Mammon can be enchanted, but a regular upgrade scroll cannot."
+136	3	0	1	"During the Seven Signs Competition and seal validation period,  the monsters in the Seven Signs dungeon disappear\nduring the active cycle beginning on Mondays and respawn at set times thereafter."
+137	4	102	1	"A siege-type clan hall battle is usually scheduled every 2 weeks.\nYou may register for it through a messenger NPC who is located outside of the clan hall. "
+138	2	101	1	"Open the map using ALT+M and click the ""World Info."" button to access information on quests, hunting grounds, and raids."
+139	4	101	1	"For additional details regarding game commands, press ALT+X and visit the help section."
+140	3	101	1	You can check the progress of your current quests through the Quest Window (ALT+U).
+141	3	0	0	Be careful and always verify prices and items in private shop packaged deals.
+142	3	0	1	"Soul Crystals, level 7-10, are available at the Giran Village Luxury Shop."
+143	3	0	1	"Good News!  Unless you're a chaotic character (marked with a red name), you will no longer drop items when you die. "
+144	3	0	1	Gone are the days of being unable to replace party members due to long distances!  Use your summoner's powers!
+145	3	102	1	"Be aware that if you attack an allied monster while performing an alliance quest for the Ketra Orcs or Varka Silenos,\nyour Mark of Alliance will disappear and the alliance will end."
+146	3	102	1	"In the Olympiad, a non-class specific match will only occur when there are more than 9 competitors.\nA class specific match will begin as before when there are more than 5 competitors."
+147	2	0	1	"On Saturdays and Sundays from 8 PM to 12 AM, gatekeeper teleport fees decrease by 50%."
+148	4	102	1	"If you are a noblesse, you may change your title \nby using the Title button in the Clan Options window (even if you are not a clan member)."
+149	4	0	1	You cannot withdraw from a clan war while there are clan members engaged in battle.
+150	3	102	1	"You may not participate in the Olympiad if\nyou possess the Demon Sword Zariche or Blood Sword Akamanah, you are in a sub-class, or you are dead."
+151	3	0	1	Visit www.lineage2.com for more basic game tips and other important information.
+152	4	102	1	"SP and EXP are consumed when enchanting a skill, regardless of success.\nYou only need the Secret Book of Giants when first attempting enchantment. "
+153	3	0	1	"If you use a Lucky Charm during a battle with a raid boss, you will not be subject to normal death-related penalties."
+154	3	0	0	Use a Charm of Courage to resurrect immediately on the battlefield during a siege war.
+155	2	102	0	"D, C and B-grade weapons can be exchanged through the Blacksmith of Mammon.\n All exchanges are final."
+156	3	0	1	"While the “Enhance Your Weapon” quest is in progress,\nyou cannot have more than one soul crystal on you when actively trying to level it."
+157	3	0	1	"After a clan lord applies for transfer of ownership,\na character must wait until the completion of a regular maintenance cycle before the change can take place. "
+158	4	0	1	"In the manor system, the planting success of a alternative seed is lower when compared with an ordinary seed."
+159	3	0	1	"Stats improved by dyes can be increased up to +5 for each ability, and decreased without limit."
+160	4	0	1	"For prepaid reservations, any remaining balance from previous reservations can be seen,\nand the prepaid reservation fee is applied once the previous reservation balance has expired."
+161	3	0	1	"Record your favorite L2 moments by pressing ALT+C and clicking on the “Begin Recording/End Recording” icon.\nYou may also use the commands ""/Begin Recording"" or ""/End Recording."""
+162	3	0	0	"Only clans that are level 5 or above are eligible to possess a Clan Fame score.\nClans below that level will not acquire Fame Points,\n even following a successful castle siege."
+163	4	0	1	"Select ""Enter Chat"" under Game Options to make chatting possible only after pressing the Enter key.\nWith this option enabled, you can navigate using the keyboard arrows or W, A, S, D keys."
+164	3	0	1	"You cannot enter into a duel while in a Peaceful Zone, a Restart Prohibited Zone, or during a Siege War."
+165	2	0	1	You cannot accept or request a party duel if even one party member fails to meet the necessary requirements.
+166	1	0	1	"If you are currently engaged in battle or in a chaotic state, you cannot request or accept a duel."
+167	1	0	1	"During a one-on-one duel or a party duel, you do not die even if you are defeated, and your buffs do not disappear."
+168	3	0	1	"If you select ""Decline Duels"" among the game options, you will not receive any duel requests."
+169	4	0	1	"A one-on-one duel lasts for 2 minutes, and a party duel lasts for 5 minutes.\nIf victory is not determined within that time, the duel ends in a tie."
+170	4	0	1	"You can request a duel by using the ""/duel"" command. You can end a one-on-one duel early by using the ""/withdraw"" command."
+171	2	0	0	"If you forcefully attack another character that is not your duel opponent, you will turn purple, and the duel will end."
+172	4	0	1	"A character that enters a duel-prohibited zone during a duel will be treated as if defeated, and the duel will end."
+173	3	0	1	"If you are participating in a siege or the Olympiad games, you cannot request a duel, nor can you accept a duel request."
+174	2	0	1	"If a party requests or accepts a party duel, it will automatically leave the Command Channel."
+175	3	0	1	"If you request or accept a party duel while participating in party matching, you will be removed from the party matching list."
+176	3	0	1	"A pet that is killed during a duel will recover its Exp and be revived, but a servitor will remain dead."
+177	4	0	1	You cannot participate in a duel while you are in your Private Store or while crafting.
+178	1	0	1	"During a one-on-one or party duel, you can receive buffs from a player outside the duel.\nHowever, the buffs you received will vanish once the duel has ended."
+179	3	101	1	Any Iason Heine’s Bills you received during the quest Methods to Raise the Dead will be\ncompensated once you complete the Black Swan quest.
+180	3	102	1	"Are you wondering what to do with your Iason Heine’s Bills?\nOnce you’ve completed the Black Swan quest,take them to Head Blacksmith Roman in Heine to receive your compensation."
+181	1	0	1	Did you recently complete an instanced zone?\nUse the /instancezone command to see how long it will be before you are permitted re-entry.
+182	2	102	1	"Elemental Attribute items can only be used on S and S80 armor and weaponry, and can fail even on the first attempt.\nHowever, unlike failing with a Scroll of Enchant, you suffer no additional penalties."
+183	3	102	1	"Once you’ve received the White Fabric from Hanellin,\nspeak to her again to receive instructions on how to change the White Fabric into Blooded Fabric."
+184	1	0	1	Characters who are level 40 or below can teleport to any town free of charge.
+185	2	0	1	"Registration in a territory war is possible through a Mercenary Captain up until 2 hours before the start of the war. You can register as an individual, or choose to register your entire clan."
+186	2	0	1	"All territory war participants except the clan members who are in possession of the castle can use a ""Disguise Scroll"" and a ""Mercenary Transformation Scroll"" to assure maximum anonymity.  The corresponding items can be purchased through the ""Mercenary Captain."""
+187	4	0	1	"During a territory war, the ownship of each region's ""Territory Ward"" can be viewed through Map > World Info > Territory War tab."
+188	2	0	1	"Players who participate in a territory war are allowed to purchase special products in each territory, including weapons, armor, belts and accessories. Speak with a Territory Manager to find out more."
+189	3	0	1	"One can acquire the noblesse rank regardless of the sub-class through the ""Territory Manager"" using a ""Territory Badge"" obtained from the territory war.  "
+190	1	0	1	"Castle siege days and times have been changed. Where they previously occurred on Saturday and Sunday, there will now be two scheduled times both occurring on Sunday."
+191	1	0	1	"Territory wars occur on a 2 week cycle, much like castle sieges. Territory wars will happen every other Saturday, on the same weekend as castle sieges."
+192	2	102	1	"The Noblesse Gate Pass is no longer provided as a reward in the Grand Olympiad competition. Olympiad Tokens have taken thier place, and will allow you to buy a greater variety of items including level 83 spellbooks."
+193	3	102	1	"One can move to the Keucereus region through a Flying Transformed Object or the ""Emery Compressor"" in Keucereus Alliance Base. \nAerial Cleft is where someone can transform into a Flying Transformed Object, and entry can be requested through the ""Vortex Gate."""
+194	2	102	1	"Seed of Infinity / Seed of Destruction hunting grounds where S82 and S84 items can be obtained through quests and hunting have been added. "
+195	1	102	1	"Aerial hunting is possible on the Gracia continent. Monsters located in the air do not drop items. The character automatically acquires them instead.  "
+196	3	102	1	"You can obtain a Flying Transformation spellbook by completing the ""Good Day to Fly"" quest through Engineer Lekon inside the Keucereus Alliance Base."
+197	1	102	1	"Certain transformations now allow you to fly on the Gracia continent. Whether you're looking for PVP or PVE, speak with Officer Tolonis at the Keucereus Alliance Base to purchase a transformation book today."
+198	3	0	1	"Airships have been added to the Gracia update. To get to Gracia, you must use the regularly scheduled airship. Once there, your clan can obtain its very own airship, usable only while on the continent of Gracia."
+199	3	0	1	"The clan airship can be used when the clan is at level 5 or above. Operation is possible by using the ""/control"" command or the ""controlaction"" key while the airship control key is clicked.  "
+200	2	102	1	"On the Gracia continent, you can collect Star Extraction Stones using the aerial collection skill. While in the Seeds, you can use a Collection Bracelet agathion to help you collect compression stones."
+201	3	102	1	"You can obtain the expert text needed to acquire the aerial collection skill by completing the ""Collecting in the Air"" quest through Engineer Lekon inside the Keucereus Alliance Base."
+202	2	102	1	A Collection Agathion Summon Bracelet can be obtained through Officer Tolonis inside the Keucereus Alliance Base or through a Seed of Infinity quest.
+203	3	102	1	Certain class specific spellbooks can now be obtained as an Olympiad reward. Other class spellbooks must be obtained by hunting various raid bosses.
+204	1	0	1	The re-use time of skills used by players has been shortened by 1/4 in the Gracia Final update.
+205	1	0	1	"When equipping a weapon that is a higher grade than the current grade for your level, the penalty effect increases from Level 1~4 depending on the grade difference."
+206	3	102	1	"S84 Vesper weapon and armor items can be obtained at a 100% when hunting boss monsters in the Seed of Destruction / Immortality. "
+207	3	102	1	Dual Daggers can only be equipped by dagger classes level 81 and above.
+208	4	0	1	"Magicians, healers, summoners, and enchanters can equip a ""sigil"" item instead of a shield. The equip effect differs for each class. "
+209	3	102	1	"You can purchase S82 Icarus weapon recipes and materials through the Special Products Broker ""Kirklan"" inside the Keucereus clan outpost.  "
+210	1	0	1	"When one wears superior upper body armor and pairs it with other masterwork pieces from the same set, the character will receive both the superior set item bonuses as well as the individual masterwork bonuses. Masterwork tops are an exception to the this rule."
+211	1	0	1	"Items dropped by monsters disappear from the server after 10 minutes. But items dropped by PCs do not disappear.  "
+212	2	0	1	It has been changed so that one can either choose to see Baium through Magister Kaspar or to hunt monsters in the Tower of Insolence during the 'Fate's Whisper' quest.
+213	4	0	1	The map has been modified to include the new continent of Gracia. Just look for the tabs at the top of the window to choose which one you want to view.
+214	3	0	1	"To disable the automatic camera movement associated with a right mouse click, go to Options > Audio/System > Control/Security > Disable initializing right mouse button."
+215	3	0	1	You can automatically decline party requests by clicking on the Party Request Decline check box through Options > Game > Game System menu.
+216	3	0	1	"Handy's Block Checker is a new mini-game that has been added to Fantasy Isle. In this team vs. team game, whoever turn over the most blocks wins!"
+217	3	0	1	"You can obtain Fantasy Red/Blue Boing Hammers, shirts, and various hair accessories using Fantasy Isle Coins.  "
+218	3	0	1	"Functions for reporting illegal program users have been enhanced for the best game environment. To make a second report, a set amount of time must pass. Your report points are set daily.  "
+219	1	0	1	Your servitor can now obtain suppliemental magic through the Newbie Guide or Adventurer Helper in each town (excluding beginner villages).
+220	1	0	1	"If you join a clan during a territory war, you can participate normally in the territory war through immediate reconnection.  \nIf you don't reconnect, Exp. decreases upon death, and you cannot receive any other territory war related rewards. "
+221	3	0	1	"All in-game GM character names have the following formats: \n""*GM*Name"" or ""*Name*"". Petition immediately if someone claims to \nrepresent NCsoft, but does not have these symbols in their name."
+222	3	0	1	Deliberately attempting to interfere with sieges by dropping \nexcessive items on the ground is a punishable offense.
+223	3	0	1	"Stores that contribute to blocking hallways, arches or passages \nin peace zones are subject to relocation by GMs."
+224	3	0	1	The use of third-party software to automate gameplay (including \nchat and private store) is a bannable offense.
+225	3	0	1	The purchase or sale of in-game assets for real world currency is\n a violation of the User Agreement and a punishable offense.

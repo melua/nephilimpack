@@ -1,0 +1,22 @@
+Index: systemmsg-e.tsv
+===================================================================
+--- systemmsg-e.tsv	(revision 481)
++++ systemmsg-e.tsv	(working copy)
+@@ -34,7 +34,7 @@
+ 32	1	Vous ne pouvez engager le combat. Veuillez vous rendre au point de réapparition le plus proche.	0	B09B79			0	0	0	0	0		none
+ 33	1	Vous ne pouvez pas bouger car vous lancez un sort.	0	B09B79	ItemSound3.sys_impossible		0	0	0	0	0		none
+ 34	1	Bienvenue dans le monde de Lineage II.	2	B09B79			0	0	0	0	0		server
+-35	1	Vous infligez $s1 points de dégâts.	3	B09B79			0	0	0	0	0		damage
++35	1	Vous infligez $s1 points de dégâts.	3	5F9F9F			2	0	2	0	0	$s1	damage
+ 36	1	$c1 vous inflige $s2 points de dégâts.	3	B09B79			0	0	0	0	0		damage
+ 37	1	$c1 vous inflige $s2 points de dégâts.	3	B09B79			0	0	0	0	0		damage
+ 38	1	L'événement TGS2002 commence !	0	B09B79			0	0	0	0	0		none
+@@ -1025,7 +1025,7 @@
+ 1023	1	Votre animal de compagnie ramasse $s1 adenas.	0	B09B79			0	0	0	0	0		none
+ 1024	1	Votre animal de compagnie  $s1 vous à rejoindre.	0	B09B79			0	0	0	0	0		none
+ 1025	1	Votre animal de compagnie $s1 vous à quitter.	0	B09B79			0	0	0	0	0		none
+-1026	1	Votre invocation a infligé $s1 points de dégâts.	3	B09B79			0	0	0	0	0		damage
++1026	1	Votre invocation a infligé $s1 points de dégâts.	3	9370DB			2	0	2	0	0	$s1	damage
+ 1027	1	Votre invocation a reçu $s2 points de dégâts provoqués par $s1.	3	B09B79			0	0	0	0	0		damage
+ 1028	1	Votre invocation a fait un coup critique !	1	B09B79			0	0	0	0	0		battle
+ 1029	1	Un monstre invoqué utilise $s1.	0	B09B79			0	0	0	0	0		none

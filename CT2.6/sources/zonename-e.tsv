@@ -1,0 +1,498 @@
+﻿# nbr	zone_color_id	x_world_grid	y_world_grid	top_z	bottom_z	zone_name	coords1	coords2	coords3	coords4	coords5	coords6	UNK_1	map	dupa
+0	0	0	0	30000	-30000	Eaux neutres	-1	-1	-1	-1	-1	-1	0		0
+1	1	0	0	30000	-30000	Ile aux Murmures	-1	-1	-1	-1	-1	-1	0		0
+2	2	0	0	30000	-30000	Territoire de Gludio	-1	-1	-1	-1	-1	-1	0		0
+3	3	0	0	30000	-30000	Territoire de Dion	-1	-1	-1	-1	-1	-1	0		0
+4	4	0	0	30000	-30000	Territoire de Giran	-1	-1	-1	-1	-1	-1	0		0
+5	5	0	0	30000	-30000	La forêt Noire	-1	-1	-1	-1	-1	-1	0		0
+6	6	0	0	30000	-30000	Forêt Elfique	-1	-1	-1	-1	-1	-1	0		0
+7	7	0	0	30000	-30000	Territoire d'Oren	-1	-1	-1	-1	-1	-1	0		0
+8	8	0	0	30000	-30000	Territoire d'Aden	-1	-1	-1	-1	-1	-1	0		0
+9	9	0	0	30000	-30000	Territoire d'Innadril	-1	-1	-1	-1	-1	-1	0		0
+10	10	0	0	30000	-30000	Montagnes Brumeuses	-1	-1	-1	-1	-1	-1	0		0
+11	11	0	0	30000	-30000	La Zone Neutre	-1	-1	-1	-1	-1	-1	0		0
+12	12	0	0	30000	-30000	Vallée du Dragon	-1	-1	-1	-1	-1	-1	0		0
+13	13	0	0	30000	-30000	Territoire de Lyonn	-1	-1	-1	-1	-1	-1	0		0
+14	14	0	0	30000	-30000	Territoire de Schuttgart	-1	-1	-1	-1	-1	-1	0		0
+15	15	0	0	30000	-30000	Terres désolées	-1	-1	-1	-1	-1	-1	0		0
+16	252	18	21	30000	-30000	Lac Fellmere	-1	-1	-1	-1	-1	-1	0		0
+17	254	19	23	-4400	-7520	Le Nid de Fourmis	-1	-1	-1	-1	-1	-1	0		0
+18	251	17	22	30000	-30000	Arène de Gludin	-1	-1	-1	-1	-1	-1	0		0
+19	254	19	21	30000	-30000	Château de Gludio	-1	-1	-1	-1	-1	-1	0		0
+20	255	19	21	30000	-30000	Village de Gludio	756	1932	-19968	117504	1024	1024	"0,05"	map_gludio_castle_town	0
+21	255	17	22	30000	-30000	Village de Gludin	433	2079	-89344	145792	1024	1024	"0,05"	map_gludin_village	0
+22	254	17	22	30000	-30000	Port de Gludin	-1	-1	-1	-1	-1	-1	0		0
+23	255	18	24	30000	-4200	Demeure des Homme-Lézards Langk	-1	-1	-1	-1	-1	-1	0		0
+24	253	18	23	30000	-3700	Red Rock Ridge	-1	-1	-1	-1	-1	-1	0		0
+25	253	19	21	30000	-30000	Casernes des Hommes Lézards Maille	-1	-1	-1	-1	-1	-1	0		0
+26	253	17	20	30000	-4200	Colline Venteuse	-1	-1	-1	-1	-1	-1	0		0
+27	255	18	21	30000	-30000	Ruines de l'agonie	-1	-1	-1	-1	-1	-1	0		0
+28	254	18	23	-3760	-5632	Temple Oublié	-1	-1	-1	-1	-1	-1	0		0
+29	255	19	22	30000	-30000	Ruines du désespoir	-1	-1	-1	-1	-1	-1	0		0
+30	255	17	21	30000	-30000	Casernes Orcs	-1	-1	-1	-1	-1	-1	0		0
+31	255	18	22	30000	-30000	Camp abandonné	-1	-1	-1	-1	-1	-1	0		0
+32	255	21	25	-4874	-6874	Ruines elfiques	270	2485	34830	235950	1024	1024	"0,05"	dungeon_map_elven_ruin	0
+33	255	16	25	30000	-30000	Ruines elfiques	-1	-1	-1	-1	-1	-1	0		0
+34	255	21	25	30000	-6873	Eaux neutres	-1	-1	-1	-1	-1	-1	0		0
+35	255	17	25	30000	-30000	Village de l'Île aux Murmures	406	2536	-90624	236416	1024	1024	"0,05"	map_talkin_island_village	0
+36	253	17	25	30000	-30000	Hall d'entrainement de Cédric	-1	-1	-1	-1	-1	-1	0		0
+37	254	17	25	30000	-30000	Ecole de magie d'Einhovant	-1	-1	-1	-1	-1	-1	0		0
+38	253	16	25	30000	-30000	Obélisque de la victoire	-1	-1	-1	-1	-1	-1	0		0
+39	254	16	25	30000	-30000	Cascade chantante	-1	-1	-1	-1	-1	-1	0		0
+40	252	17	25	30000	-30000	Port de l'Île aux Murmures	-1	-1	-1	-1	-1	-1	0		0
+41	253	22	22	30000	-30000	Arène de Giran	-1	-1	-1	-1	-1	-1	0		0
+42	255	23	22	30000	-30000	Château de Giran	-1	-1	-1	-1	-1	-1	0		0
+43	255	22	22	30000	-30000	Ville fortifiée de Giran	1244	2053	73536	140032	1024	1024	"0,05"	map_giran_castle_town	0
+44	255	21	23	30000	-30000	Port de Giran	-1	-1	-1	-1	-1	-1	0		0
+45	255	24	21	30000	-30000	Antre d'Antharas	-1	-1	-1	-1	-1	-1	0		0
+46	251	22	21	30000	-30000	Défilé de la Mort	-1	-1	-1	-1	-1	-1	0		0
+47	254	20	22	30000	-30000	Château de Dion	-1	-1	-1	-1	-1	-1	0		0
+48	255	20	22	30000	-30000	Village de Dion	927	2042	11840	138432	1024	1024	"0,05"	map_dion_castle_town	0
+49	252	20	23	30000	-30000	Monster Race Track	-1	-1	-1	-1	-1	-1	0		0
+50	255	21	21	30000	-30000	Cache des Partisans	-1	-1	-1	-1	-1	-1	0		0
+51	255	21	22	30000	-30000	Terrain d'Exécution	-1	-1	-1	-1	-1	-1	0		0
+52	253	20	21	30000	-4407	Marécage de Cruma	-1	-1	-1	-1	-1	-1	0		0
+53	255	20	21	30000	-30000	Marécage de Cruma	-1	-1	-1	-1	-1	-1	0		0
+54	254	20	21	30000	-4407	Tour de Cruma	-1	-1	-1	-1	-1	-1	0		0
+55	253	20	21	-4408	-14036	Tour de Cruma	-1	-1	-1	-1	-1	-1	0		0
+56	254	20	21	-4408	-30000	Tour de Cruma	-1	-1	-1	-1	-1	-1	0		0
+57	254	21	22	30000	-30000	Canyon Tanor	-1	-1	-1	-1	-1	-1	0		0
+58	255	20	23	30000	-30000	Village de Floran	903	2156	11840	165120	1024	1024	"0,05"	map_floran_village	0
+59	253	20	23	30000	-30000	Ruche des abeilles	-1	-1	-1	-1	-1	-1	0		0
+60	255	20	14	-1952	-3952	Grotte des Epreuves	909	765	7400	-124192	1024	1024	"0,05"	dungeon_map_dungeon_of_trial	0
+61	255	20	13	30000	-30000	Cascades gelées	-1	-1	-1	-1	-1	-1	0		0
+62	255	18	14	30000	-30000	Village Orc	602	743	-52736	-120832	1024	1024	"0,05"	map_orc_village	0
+63	254	18	14	30000	-30000	Temple de  Pa'agrio	-1	-1	-1	-1	-1	-1	0		0
+64	254	23	12	30000	-30000	Village des Nains	1417	401	110144	-187968	1024	1024	"0,05"	map_dwarven_village	0
+65	255	25	12	4224	-4810	Mines de Mithril	-1	-1	-1	-1	-1	-1	0		0
+66	255	24	12	3424	-2704	Mines de charbon abandonnées	1552	453	134800	-182650	1024	1024	"0,05"	dungeon_map_abaodoned_mime	0
+67	255	23	12	30000	-30000	Strip Mine	-1	-1	-1	-1	-1	-1	0		0
+68	255	24	20	30000	-30000	La forêt des Miroirs	-1	-1	-1	-1	-1	-1	0		0
+69	255	25	19	30000	-30000	La caverne des Géants	-1	-1	-1	-1	-1	-1	0		0
+70	254	25	19	-5172	-30000	Vallée silencieuse	-1	-1	-1	-1	-1	-1	0		0
+71	255	25	18	30000	-30000	Le Cimetière	-1	-1	-1	-1	-1	-1	0		0
+72	255	24	19	30000	-30000	Lac Narsell	-1	-1	-1	-1	-1	-1	0		0
+73	253	25	19	30000	-30000	Plaines abandonnées	-1	-1	-1	-1	-1	-1	0		0
+74	255	23	20	30000	-30000	Village des Chasseurs	1424	1706	111104	70016	1024	1024	"0,05"	map_hunters_village	0
+75	254	25	18	30000	-30000	L'Entrée Interdite	-1	-1	-1	-1	-1	-1	0		0
+76	254	24	18	30000	-30000	Château d'Aden	-1	-1	-1	-1	-1	-1	0		0
+77	255	24	18	30000	-30000	Ville d'Aden	1574	1446	139264	16384	1024	1024	"0,05"	map_town_of_aden	0
+78	254	25	20	30000	-30000	Chutes de l'Ange	-1	-1	-1	-1	-1	-1	0		0
+79	251	23	18	6944	5952	Tour de l'Insolence: 10ème étage	-1	-1	-1	-1	-1	-1	0		0
+80	251	23	18	7952	6976	Tour de l'Insolence: 11ème étage	-1	-1	-1	-1	-1	-1	0		0
+81	251	23	18	8960	7968	Tour de l'Insolence: 12ème étage	-1	-1	-1	-1	-1	-1	0		0
+82	251	23	18	10048	8976	Tour de l'Insolence: 13ème étage	-1	-1	-1	-1	-1	-1	0		0
+83	251	23	18	12000	10064	Tour de l'Insolence: 14ème étage	-1	-1	-1	-1	-1	-1	0		0
+84	251	23	18	-3728	-10000	Tour de l'Insolence: 1er étage	-1	-1	-1	-1	-1	-1	0		0
+85	251	23	18	-2192	-3680	Tour de l'Insolence: 2ème étage	-1	-1	-1	-1	-1	-1	0		0
+86	251	23	18	-704	-2128	Tour de l'Insolence: 3ème étage	-1	-1	-1	-1	-1	-1	0		0
+87	251	23	18	784	-688	Tour de l'Insolence: 4ème étage	-1	-1	-1	-1	-1	-1	0		0
+88	251	23	18	1872	896	Tour de l'Insolence: 5ème étage	-1	-1	-1	-1	-1	-1	0		0
+89	251	23	18	2912	1888	Tour de l'Insolence: 6ème étage	-1	-1	-1	-1	-1	-1	0		0
+90	251	23	18	3920	2928	Tour de l'Insolence: 7ème étage	-1	-1	-1	-1	-1	-1	0		0
+91	251	23	18	4928	3952	Tour de l'Insolence: 8ème étage	-1	-1	-1	-1	-1	-1	0		0
+92	251	23	18	5936	4944	Tour de l'Insolence: 9ème étage	-1	-1	-1	-1	-1	-1	0		0
+93	254	24	19	30000	-30000	Colisée	-1	-1	-1	-1	-1	-1	0		0
+94	255	25	17	30000	-4220	Château dévasté	-1	-1	-1	-1	-1	-1	0		0
+95	255	24	17	30000	-30000	Marais embrasé	-1	-1	-1	-1	-1	-1	0		0
+96	254	23	17	30000	-30000	Ancien champ de bataille	-1	-1	-1	-1	-1	-1	0		0
+97	253	23	17	30000	-30000	Avant-poste, Frontière Est	-1	-1	-1	-1	-1	-1	0		0
+98	255	22	17	30000	-30000	Forteresse des bandits	-1	-1	-1	-1	-1	-1	0		0
+99	255	22	18	30000	-4632	Tour d'Ivoire	-1	-1	-1	-1	-1	-1	0		0
+100	254	22	19	30000	-30000	Château d'Oren	-1	-1	-1	-1	-1	-1	0		0
+101	255	22	19	30000	-30000	Village d'Oren	1086	1595	75136	48768	1024	1024	"0,05"	map_town_of_oren	0
+102	254	22	20	30000	-3900	Plaines des Homme-Lézards	-1	-1	-1	-1	-1	-1	0		0
+103	255	23	19	30000	-30000	La vallée enchantée	-1	-1	-1	-1	-1	-1	0		0
+104	255	21	18	30000	-30000	Mer de Spore	-1	-1	-1	-1	-1	-1	0		0
+105	253	22	19	30000	-30000	Prairie au ciel sombre	-1	-1	-1	-1	-1	-1	0		0
+106	255	19	19	30000	-30000	Marécage	-1	-1	-1	-1	-1	-1	0		0
+107	255	20	18	30000	-30000	Village des Elfes Sombre	885	1394	768	9344	1024	1024	"0,05"	map_dark_elven_village	0
+108	254	20	18	30000	-30000	Temple de Shilen	-1	-1	-1	-1	-1	-1	0		0
+109	255	18	20	30000	-4000	Autel des Rituels	-1	-1	-1	-1	-1	-1	0		0
+110	255	18	19	30000	-30000	Ecole des Arts Sombres	608	1572	-57500	39808	1024	1024	"0,05"	dungeon_map_black_magic_laboratory	0
+111	254	21	19	30000	-30000	Ombre de l'Arbre Mère	-1	-1	-1	-1	-1	-1	0		0
+112	255	21	20	30000	-30000	Lac Iris	-1	-1	-1	-1	-1	-1	0		0
+113	255	21	19	30000	-30000	Village Elfe	1071	1568	39168	42688	1024	1024	"0,05"	map_elven_village	0
+114	255	20	20	-3200	-4450	Forteresse Elfe	958	1687	8320	68086	1024	1024	"0,05"	dungeon_map_elven_underground_fortress	0
+115	253	21	19	30000	-30000	Cascade étoilée	-1	-1	-1	-1	-1	-1	0		0
+116	255	22	23	30000	-30000	Champs du Silence	-1	-1	-1	-1	-1	-1	0		0
+117	255	22	24	30000	-30000	Champs des Murmures	-1	-1	-1	-1	-1	-1	0		0
+118	255	23	24	30000	-30000	Heine	1391	2436	101504	212608	1024	1024	"0,05"	map_heine	0
+119	255	21	24	30000	-30000	Île du Diable	-1	-1	-1	-1	-1	-1	0		0
+120	255	23	23	30000	-30000	Île des alligators	-1	-1	-1	-1	-1	-1	0		0
+121	255	22	25	30000	-30000	Jardin d'Eva	-1	-1	-1	-1	-1	-1	0		0
+122	254	23	24	30000	-30000	Départ de la Croisière	-1	-1	-1	-1	-1	-1	0		0
+123	255	23	25	30000	-30000	Château d'Innadril	-1	-1	-1	-1	-1	-1	0		0
+124	254	21	24	30000	-30000	Tunnel des Pirates	-1	-1	-1	-1	-1	-1	0		0
+125	249	17	21	-3968	-5056	Oracle de l'Aube	-1	-1	-1	-1	-1	-1	0		0
+126	249	17	20	-4224	-5312	Oracle du Crépuscule	-1	-1	-1	-1	-1	-1	0		0
+127	249	18	20	-4064	-4896	Nécropole de la Dévotion	-1	-1	-1	-1	-1	-1	0		0
+128	249	18	24	-4282	-5242	Nécropole du Sacrifice	-1	-1	-1	-1	-1	-1	0		0
+129	249	19	18	-4224	-5056	Catacombes des Sombres Présages	-1	-1	-1	-1	-1	-1	0		0
+130	249	19	20	-4496	-5328	Nécropole du Patriote	-1	-1	-1	-1	-1	-1	0		0
+131	249	21	21	-4736	-5568	Nécropole du Pèlerin	-1	-1	-1	-1	-1	-1	0		0
+132	249	21	22	-4704	-5536	Catacombes de l'Hérétique	-1	-1	-1	-1	-1	-1	0		0
+133	249	21	23	-4304	-5136	Catacombes de la Marque	-1	-1	-1	-1	-1	-1	0		0
+134	249	22	20	-3936	-5280	Catacombes de l'Apostat	-1	-1	-1	-1	-1	-1	0		0
+135	249	22	24	-4762	-5594	Nécropole du Saint	-1	-1	-1	-1	-1	-1	0		0
+136	249	23	20	-5352	-6696	Catacombes du Chemin Interdit	-1	-1	-1	-1	-1	-1	0		0
+137	249	23	22	-4154	-4986	Nécropole du Martyr	-1	-1	-1	-1	-1	-1	0		0
+138	249	23	23	-4762	-5594	Nécropole du Culte	-1	-1	-1	-1	-1	-1	0		0
+139	249	24	20	-3984	-5584	Catacombes de la Sorcière	-1	-1	-1	-1	-1	-1	0		0
+140	249	25	17	-4224	-5644	Nécropole du Disciple	-1	-1	-1	-1	-1	-1	0		0
+141	255	16	10	30000	-30000	Prison	-1	-1	-1	-1	-1	-1	0		0
+142	255	18	24	-4282	-5242	Nécropole du Sacrifice	-1	-1	-1	-1	-1	-1	0		0
+143	253	17	20	-4224	-5312	Oracle du Crépuscule	-1	-1	-1	-1	-1	-1	0		0
+144	249	17	20	30000	-4220	Territoire de Gludio	-1	-1	-1	-1	-1	-1	0		0
+145	250	17	20	-4224	-5312	Oracle du Crépuscule	-1	-1	-1	-1	-1	-1	0		0
+146	250	17	20	30000	-4220	La Forêt Noire	-1	-1	-1	-1	-1	-1	0		0
+147	252	18	22	30000	-30000	Lac Fellmere	-1	-1	-1	-1	-1	-1	0		0
+148	252	17	22	30000	-30000	Lac Fellmere	-1	-1	-1	-1	-1	-1	0		0
+149	255	19	24	30000	-4200	Demeure des Homme-Lézards Langk	-1	-1	-1	-1	-1	-1	0		0
+150	253	18	24	30000	-30000	Chaîne du Rocher Rouge	-1	-1	-1	-1	-1	-1	0		0
+151	253	19	24	30000	-30000	Chaîne du Rocher Rouge	-1	-1	-1	-1	-1	-1	0		0
+152	253	18	23	-3760	-5632	Temple Oublié	-1	-1	-1	-1	-1	-1	0		0
+153	254	21	23	30000	-30000	Canyon Tanor	-1	-1	-1	-1	-1	-1	0		0
+154	254	22	22	30000	-30000	Canyon Tanor	-1	-1	-1	-1	-1	-1	0		0
+155	253	21	23	30000	-30000	Ruche des abeilles	-1	-1	-1	-1	-1	-1	0		0
+156	254	23	18	30000	-30000	Ancien champ de bataille	-1	-1	-1	-1	-1	-1	0		0
+157	249	18	24	30000	-4200	Chaîne du Rocher Rouge	-1	-1	-1	-1	-1	-1	0		0
+158	249	22	20	30000	-3900	Territoire d'Oren	-1	-1	-1	-1	-1	-1	0		0
+159	254	22	20	-3936	-5280	Catacombes de l'Apostat	-1	-1	-1	-1	-1	-1	0		0
+160	249	17	21	30000	-3950	Territoire de Gludio	-1	-1	-1	-1	-1	-1	0		0
+161	249	18	20	30000	-4000	La Forêt Noire	-1	-1	-1	-1	-1	-1	0		0
+162	255	18	20	-4064	-4896	Nécropole de la Dévotion	-1	-1	-1	-1	-1	-1	0		0
+163	250	18	20	30000	-4000	Montagnes Brumeuses	-1	-1	-1	-1	-1	-1	0		0
+164	250	18	20	-4064	-4896	Nécropole de la Dévotion	-1	-1	-1	-1	-1	-1	0		0
+165	250	19	20	-4496	-5328	Nécropole du Patriote	-1	-1	-1	-1	-1	-1	0		0
+166	249	19	20	30000	-4480	La Forêt Noire	-1	-1	-1	-1	-1	-1	0		0
+167	250	19	20	30000	-4480	La Zone Neutre	-1	-1	-1	-1	-1	-1	0		0
+168	249	19	18	30000	-4220	La Forêt Noire	-1	-1	-1	-1	-1	-1	0		0
+169	249	21	21	30000	-4700	Cache des Partisans	-1	-1	-1	-1	-1	-1	0		0
+170	249	21	22	30000	-4700	Terrain d'Exécution	-1	-1	-1	-1	-1	-1	0		0
+171	249	21	23	30000	-4300	Territoire de Giran	-1	-1	-1	-1	-1	-1	0		0
+172	249	22	24	30000	-4760	Champ des Murmures	-1	-1	-1	-1	-1	-1	0		0
+173	249	23	20	30000	-5350	Village des Chasseurs	-1	-1	-1	-1	-1	-1	0		0
+174	249	23	22	30000	-4150	Jardin des Statues	-1	-1	-1	-1	-1	-1	0		0
+175	249	23	23	30000	-4760	Île des alligators	-1	-1	-1	-1	-1	-1	0		0
+176	249	24	20	30000	-3980	La forêt des Miroirs	-1	-1	-1	-1	-1	-1	0		0
+177	255	25	17	-4224	-5644	Nécropole du Disciple	-1	-1	-1	-1	-1	-1	0		0
+178	255	25	21	30000	-30000	Antre d'Antharas	-1	-1	-1	-1	-1	-1	0		0
+179	254	19	23	30000	-4400	Terres désolées	-1	-1	-1	-1	-1	-1	0		0
+180	255	20	14	30000	29999	Territoire de Lyonn	-1	-1	-1	-1	-1	-1	0		0
+181	255	20	20	30000	-3100	Forêt Elfique	-1	-1	-1	-1	-1	-1	0		0
+182	254	18	23	30000	-3700	Territoire de Gludio	-1	-1	-1	-1	-1	-1	0		0
+183	255	24	12	30000	3430	Territoire de Schuttgart	-1	-1	-1	-1	-1	-1	0		0
+184	255	25	12	30000	4250	Territoire de Schuttgart	-1	-1	-1	-1	-1	-1	0		0
+185	254	25	19	30000	-5170	La caverne des Géants	-1	-1	-1	-1	-1	-1	0		0
+186	254	19	19	30000	-30000	Cascade de l'Ondine	-1	-1	-1	-1	-1	-1	0		0
+187	254	22	18	30000	-30000	La chute des Dieux	-1	-1	-1	-1	-1	-1	0		0
+188	249	25	17	30000	-4220	Champs du Massacre	-1	-1	-1	-1	-1	-1	0		0
+189	244	19	13	30000	-30000	"Plateau Immortel, Nord"	-1	-1	-1	-1	-1	-1	0		0
+190	244	19	14	30000	-30000	"Plateau Immortel, Nord"	-1	-1	-1	-1	-1	-1	0		0
+191	244	19	15	30000	-30000	"Plateau Immortel, Nord"	-1	-1	-1	-1	-1	-1	0		0
+192	244	20	13	30000	-30000	"Plateau Immortel, Nord"	-1	-1	-1	-1	-1	-1	0		0
+193	244	20	14	30000	-30000	"Plateau Immortel, Nord"	-1	-1	-1	-1	-1	-1	0		0
+194	245	19	15	30000	-30000	"Plateau Immortel, Sud"	-1	-1	-1	-1	-1	-1	0		0
+195	245	20	14	30000	-30000	"Plateau Immortel, Sud"	-1	-1	-1	-1	-1	-1	0		0
+196	245	20	15	30000	-30000	"Plateau Immortel, Sud"	-1	-1	-1	-1	-1	-1	0		0
+197	243	18	14	30000	-30000	Vallée des Héros	-1	-1	-1	-1	-1	-1	0		0
+198	243	19	14	30000	-30000	Vallée des Héros	-1	-1	-1	-1	-1	-1	0		0
+199	243	23	12	30000	-30000	Vallée gelée	-1	-1	-1	-1	-1	-1	0		0
+200	244	23	11	30000	-30000	Zone minière Ouest	-1	-1	-1	-1	-1	-1	0		0
+201	244	23	12	30000	-30000	Zone minière Ouest	-1	-1	-1	-1	-1	-1	0		0
+202	244	24	11	30000	-30000	Zone minière Ouest	-1	-1	-1	-1	-1	-1	0		0
+203	244	24	12	30000	-30000	Zone minière Ouest	-1	-1	-1	-1	-1	-1	0		0
+204	245	24	11	30000	-30000	Zone minière Est	-1	-1	-1	-1	-1	-1	0		0
+205	245	24	12	30000	-30000	Zone minière Est	-1	-1	-1	-1	-1	-1	0		0
+206	245	25	11	30000	-30000	Zone minière Est	-1	-1	-1	-1	-1	-1	0		0
+207	245	25	12	30000	-30000	Zone minière Est	-1	-1	-1	-1	-1	-1	0		0
+208	244	23	24	30000	-30000	Plage des Alligators	-1	-1	-1	-1	-1	-1	0		0
+209	244	24	18	30000	-30000	Plaines de Gloire	-1	-1	-1	-1	-1	-1	0		0
+210	243	24	17	30000	-30000	Champs du Massacre	-1	-1	-1	-1	-1	-1	0		0
+211	243	25	17	30000	-30000	Champs du Massacre	-1	-1	-1	-1	-1	-1	0		0
+212	245	24	18	30000	-30000	Plaines déchirées par la Guerre	-1	-1	-1	-1	-1	-1	0		0
+213	245	25	18	30000	-30000	Plaines déchirées par la Guerre	-1	-1	-1	-1	-1	-1	0		0
+214	244	23	21	30000	-30000	Jardin des Statues	-1	-1	-1	-1	-1	-1	0		0
+215	244	23	22	30000	-30000	Jardin des Statues	-1	-1	-1	-1	-1	-1	0		0
+216	245	22	21	30000	-30000	Forteresse des Breka	-1	-1	-1	-1	-1	-1	0		0
+217	245	22	22	30000	-30000	Forteresse des Breka	-1	-1	-1	-1	-1	-1	0		0
+218	244	17	20	30000	-30000	Nid d'Araignées	-1	-1	-1	-1	-1	-1	0		0
+219	244	18	20	30000	-30000	Nid d'Araignées	-1	-1	-1	-1	-1	-1	0		0
+220	251	18	19	30000	-30000	Colline du Rocher Noir	-1	-1	-1	-1	-1	-1	0		0
+221	251	18	20	30000	-30000	Colline du Rocher Noir	-1	-1	-1	-1	-1	-1	0		0
+222	251	19	19	30000	-30000	Colline du Rocher Noir	-1	-1	-1	-1	-1	-1	0		0
+223	251	19	20	30000	-30000	Colline du Rocher Noir	-1	-1	-1	-1	-1	-1	0		0
+224	244	19	18	30000	-30000	Jardin de Shilen	-1	-1	-1	-1	-1	-1	0		0
+225	244	20	18	30000	-30000	Jardin de Shilen	-1	-1	-1	-1	-1	-1	0		0
+226	244	21	18	30000	-30000	Jardin de Shilen	-1	-1	-1	-1	-1	-1	0		0
+227	245	18	20	30000	-30000	Forêt du Sacrifice	-1	-1	-1	-1	-1	-1	0		0
+228	245	19	20	30000	-30000	Forêt du Sacrifice	-1	-1	-1	-1	-1	-1	0		0
+229	244	19	21	30000	-30000	Domaine de Chasse Maléfique	-1	-1	-1	-1	-1	-1	0		0
+230	244	20	21	30000	-30000	Domaine de Chasse Maléfique	-1	-1	-1	-1	-1	-1	0		0
+231	244	22	19	30000	-30000	Avant-poste Timak	-1	-1	-1	-1	-1	-1	0		0
+232	244	22	20	30000	-30000	Avant-poste Timak	-1	-1	-1	-1	-1	-1	0		0
+233	245	22	17	30000	-30000	Forêt des Hors-la-loi	-1	-1	-1	-1	-1	-1	0		0
+234	245	22	18	30000	-30000	Forêt des Hors-la-loi	-1	-1	-1	-1	-1	-1	0		0
+235	245	23	17	30000	-30000	Forêt des Hors-la-loi	-1	-1	-1	-1	-1	-1	0		0
+236	245	23	18	30000	-30000	Forêt des Hors-la-loi	-1	-1	-1	-1	-1	-1	0		0
+237	253	23	20	30000	-30000	Vallée des Chasseurs	-1	-1	-1	-1	-1	-1	0		0
+238	244	22	18	30000	-30000	Forêt du Mal	-1	-1	-1	-1	-1	-1	0		0
+239	253	22	18	30000	-30000	Cratère de la Tour d'Ivoire	-1	-1	-1	-1	-1	-1	0		0
+240	255	22	18	-4633	-30000	Cratère de la Tour d'Ivoire	-1	-1	-1	-1	-1	-1	0		0
+241	244	20	23	30000	-30000	Plaines de Dion	-1	-1	-1	-1	-1	-1	0		0
+242	245	20	22	30000	-30000	Zone Agricole de Floran	-1	-1	-1	-1	-1	-1	0		0
+243	245	20	23	30000	-30000	Zone Agricole de Floran	-1	-1	-1	-1	-1	-1	0		0
+244	243	20	22	30000	-30000	Collines de Dion	-1	-1	-1	-1	-1	-1	0		0
+245	243	21	22	30000	-30000	Collines de Dion	-1	-1	-1	-1	-1	-1	0		0
+246	245	19	22	30000	-30000	Manoir de Windawood	-1	-1	-1	-1	-1	-1	0		0
+247	245	19	23	30000	-30000	Manoir de Windawood	-1	-1	-1	-1	-1	-1	0		0
+248	245	19	24	30000	-30000	Point de contrôle Ol Mahum	-1	-1	-1	-1	-1	-1	0		0
+249	245	17	20	30000	-30000	Fellmere, Terrains des récoltes	-1	-1	-1	-1	-1	-1	0		0
+250	245	17	21	30000	-30000	Fellmere, Terrains des récoltes	-1	-1	-1	-1	-1	-1	0		0
+251	245	18	21	30000	-30000	Fellmere, Terrains des récoltes	-1	-1	-1	-1	-1	-1	0		0
+252	251	18	21	30000	-30000	La Courbe ruinée	-1	-1	-1	-1	-1	-1	0		0
+253	251	18	22	30000	-30000	La Courbe ruinée	-1	-1	-1	-1	-1	-1	0		0
+254	251	19	22	30000	-30000	La Courbe ruinée	-1	-1	-1	-1	-1	-1	0		0
+255	244	17	22	30000	-30000	Colline du Moulin à vent	-1	-1	-1	-1	-1	-1	0		0
+256	244	17	23	30000	-30000	Colline du Moulin à vent	-1	-1	-1	-1	-1	-1	0		0
+257	244	18	22	30000	-30000	Colline du Moulin à vent	-1	-1	-1	-1	-1	-1	0		0
+258	244	18	23	30000	-30000	Colline du Moulin à vent	-1	-1	-1	-1	-1	-1	0		0
+259	244	16	24	30000	-30000	"Ile aux Murmures, Territoire Nord"	-1	-1	-1	-1	-1	-1	0		0
+260	244	16	25	30000	-30000	"Ile aux Murmures, Territoire Nord"	-1	-1	-1	-1	-1	-1	0		0
+261	244	16	26	30000	-30000	"Ile aux Murmures, Territoire Nord"	-1	-1	-1	-1	-1	-1	0		0
+262	245	17	24	30000	-30000	"Ile aux Murmures, Territoire Est"	-1	-1	-1	-1	-1	-1	0		0
+263	245	17	25	30000	-30000	"Ile aux Murmures, Territoire Est"	-1	-1	-1	-1	-1	-1	0		0
+264	245	17	26	30000	-30000	"Ile aux Murmures, Territoire Est"	-1	-1	-1	-1	-1	-1	0		0
+265	245	18	25	30000	-30000	"Ile aux Murmures, Territoire Est"	-1	-1	-1	-1	-1	-1	0		0
+266	245	18	26	30000	-30000	"Ile aux Murmures, Territoire Est"	-1	-1	-1	-1	-1	-1	0		0
+267	251	20	23	30000	-30000	Arène de Dion	-1	-1	-1	-1	-1	-1	0		0
+268	16	0	0	30000	-30000	Territoire de Goddard	-1	-1	-1	-1	-1	-1	0		0
+269	255	24	16	30000	-30000	Ville de Goddard	1565	1038	140256	-64320	1024	1024	"0,05"	map_godard_castle_town	0
+270	254	24	16	30000	-30000	Château de Goddard	-1	-1	-1	-1	-1	-1	0		0
+271	253	24	16	30000	-30000	Jardin des Bêtes	-1	-1	-1	-1	-1	-1	0		0
+272	255	24	14	30000	-30000	Sources Chaudes	-1	-1	-1	-1	-1	-1	0		0
+273	254	25	14	-1910	-4268	"Forge des Dieux, niveau supérieur"	-1	-1	-1	-1	-1	-1	0		0
+274	254	25	14	-4270	-300000	"Forge des Dieux, niveau inférieur"	-1	-1	-1	-1	-1	-1	0		0
+275	254	25	14	30000	-1900	Hall des Flammes	-1	-1	-1	-1	-1	-1	0		0
+276	254	26	14	30000	-30000	Tanière de Valakas	-1	-1	-1	-1	-1	-1	0		0
+277	255	24	15	30000	-30000	Avant-poste des Orcs Ketra	-1	-1	-1	-1	-1	-1	0		0
+278	255	25	15	30000	-30000	Tombe Impériale	-1	-1	-1	-1	-1	-1	0		0
+279	247	25	15	30000	-4400	Tombe Impériale	-1	-1	-1	-1	-1	-1	0		0
+280	254	25	15	30000	-30000	Temple des Pèlerins	-1	-1	-1	-1	-1	-1	0		0
+281	252	25	15	30000	-30000	Sépulture des Conquérants	-1	-1	-1	-1	-1	-1	0		0
+282	251	25	15	30000	-30000	Sépulture des Dirigeants	-1	-1	-1	-1	-1	-1	0		0
+283	249	25	15	-5600	-30000	Sépulture des Grands Sages	-1	-1	-1	-1	-1	-1	0		0
+284	250	25	15	-5600	-30000	Sépulture des Juges	-1	-1	-1	-1	-1	-1	0		0
+285	247	25	15	-5600	-30000	Sépulture des Juges	-1	-1	-1	-1	-1	-1	0		0
+286	253	25	15	30000	-30000	Les Quatre Sépultures	-1	-1	-1	-1	-1	-1	0		0
+287	255	25	16	30000	-30000	Mur d'Argos	-1	-1	-1	-1	-1	-1	0		0
+288	254	25	16	30000	-30000	Tombeau de la Loyauté	-1	-1	-1	-1	-1	-1	0		0
+289	255	23	16	30000	-30000	Casernes des Varka Silenos	-1	-1	-1	-1	-1	-1	0		0
+290	17	0	0	30000	-30000	Territoire de Rune	-1	-1	-1	-1	-1	-1	0		0
+291	254	21	16	30000	-30000	Rune Township	1016	1062	29760	-55808	1024	1024	"0,05"	map_rune_village	0
+292	253	21	16	30000	-30000	Port de Rune	-1	-1	-1	-1	-1	-1	0		0
+293	253	21	15	30000	-30000	Windtail Waterfall	-1	-1	-1	-1	-1	-1	0		0
+294	255	21	15	30000	-30000	Ferme aux Bêtes	-1	-1	-1	-1	-1	-1	0		0
+295	254	22	15	30000	-30000	Vallée des Saints	-1	-1	-1	-1	-1	-1	0		0
+296	254	21	15	30000	-30000	Vallée des Saints	-1	-1	-1	-1	-1	-1	0		0
+297	254	23	15	30000	-30000	Vallée des Saints	-1	-1	-1	-1	-1	-1	0		0
+298	255	21	16	30000	-30000	Forêt des Morts	-1	-1	-1	-1	-1	-1	0		0
+299	253	22	16	30000	-3490	Marais Hurlants	-1	-1	-1	-1	-1	-1	0		0
+300	253	22	15	30000	-3490	Marais Hurlants	-1	-1	-1	-1	-1	-1	0		0
+301	253	23	16	30000	-3490	Marais Hurlants	-1	-1	-1	-1	-1	-1	0		0
+302	252	23	16	30000	-30000	Passe du Diable	-1	-1	-1	-1	-1	-1	0		0
+303	249	16	12	30000	-30000	Faille Dimensionnelle	-1	-1	-1	-1	-1	-1	0		0
+304	255	25	14	30000	-30000	"Forge des Dieux, niveau supérieur"	-1	-1	-1	-1	-1	-1	0		0
+305	255	25	20	30000	-30000	La forêt des Miroirs	-1	-1	-1	-1	-1	-1	0		0
+306	253	19	23	-3700	-30000	Incubateur de Fourmis	-1	-1	-1	-1	-1	-1	0		0
+307	253	19	23	30000	-4400	Terres désolées	-1	-1	-1	-1	-1	-1	0		0
+308	251	21	21	30000	-30000	Défilé de la Mort	-1	-1	-1	-1	-1	-1	0		0
+309	251	23	21	30000	-30000	Défilé de la Mort	-1	-1	-1	-1	-1	-1	0		0
+310	252	21	16	30000	-30000	Village Maudit	-1	-1	-1	-1	-1	-1	0		0
+311	18	0	0	30000	-30000	Stade des Olympiades	-1	-1	-1	-1	-1	-1	0		0
+312	254	23	16	30000	-30000	Village Varka Silenos	-1	-1	-1	-1	-1	-1	0		0
+313	253	24	15	30000	-30000	Village des Orques Ketra	-1	-1	-1	-1	-1	-1	0		0
+314	254	23	21	30000	-30000	Académie de Hardin	-1	-1	-1	-1	-1	-1	0		0
+315	249	20	16	30000	-1300	Château de Rune	-1	-1	-1	-1	-1	-1	0		0
+316	246	19	16	-5600	-30000	Le Temple Païen	-1	-1	-1	-1	-1	-1	0		0
+317	253	22	16	-3500	-30000	Nid Stakato	-1	-1	-1	-1	-1	-1	0		0
+318	246	22	16	30000	-30000	Nid Stakato	-1	-1	-1	-1	-1	-1	0		0
+321	244	25	15	-4500	-5500	La dernière Tombe Impériale	-1	-1	-1	-1	-1	-1	0		0
+322	254	24	14	30000	-30000	Château Rainbow Springs	-1	-1	-1	-1	-1	-1	0		0
+323	222	21	15	30000	-30000	Réserve des animaux sauvage	-1	-1	-1	-1	-1	-1	0		0
+324	235	21	17	30000	-30000	Forteresse des Morts	-1	-1	-1	-1	-1	-1	0		0
+325	239	22	13	30000	-30000	Château de Schuttgart	-1	-1	-1	-1	-1	-1	0		0
+326	210	22	13	30000	-30000	Ville de Schuttgart	1268	605	77344	-147392	1024	1024	"0,05"	map_town_of_schuttgart	0
+327	235	21	14	30000	-30000	Vallée des Seigneurs	-1	-1	-1	-1	-1	-1	0		0
+328	249	23	12	30000	-30000	Passage de l’exploitation minière	-1	-1	-1	-1	-1	-1	0		0
+329	207	23	13	30000	-30000	Plaines Pillées	-1	-1	-1	-1	-1	-1	0		0
+330	244	23	14	30000	-30000	Labyrinthe gelé	-1	-1	-1	-1	-1	-1	0		0
+331	247	23	14	30000	-30000	Le Château de la Reine de Glace	-1	-1	-1	-1	-1	-1	0		0
+332	253	22	14	30000	-30000	Ruines Pavel	-1	-1	-1	-1	-1	-1	0		0
+333	231	22	14	30000	-30000	Donjon de Caron	-1	-1	-1	-1	-1	-1	0		0
+334	218	22	14	30000	-30000	Antre du Mal	-1	-1	-1	-1	-1	-1	0		0
+335	251	21	14	30000	-30000	Crypte de la Disgrâce	-1	-1	-1	-1	-1	-1	0		0
+336	209	22	14	30000	-30000	Laboratoire Archaïque	-1	-1	-1	-1	-1	-1	0		0
+337	249	23	14	30000	-30000	Lac gelé	-1	-1	-1	-1	-1	-1	0		0
+338	214	23	13	30000	-30000	Relique du Wagon Céleste	-1	-1	-1	-1	-1	-1	0		0
+339	247	25	15	-4500	-5500	La dernière Tombe Impériale	-1	-1	-1	-1	-1	-1	0		0
+340	244	25	15	-5600	-30000	Sépulture des Grands Sages	-1	-1	-1	-1	-1	-1	0		0
+341	250	25	15	-4500	-5500	La dernière Tombe Impériale	-1	-1	-1	-1	-1	-1	0		0
+342	247	21	14	30000	-30000	Cachette des Pilleurs de Tombes	-1	-1	-1	-1	-1	-1	0		0
+343	247	23	13	30000	-30000	Station de chemin de fer	-1	-1	-1	-1	-1	-1	0		0
+345	207	23	12	30000	-30000	Plaines Pillées	-1	-1	-1	-1	-1	-1	0		0
+346	255	20	14	29998	-3900	Territoire de Schuttgart	-1	-1	-1	-1	-1	-1	0		0
+347	252	23	14	30000	-30000	Chalet du Marchand des Neiges	-1	-1	-1	-1	-1	-1	0		0
+348	240	23	13	30000	-30000	Forteresse des Brigands	-1	-1	-1	-1	-1	-1	0		0
+349	250	21	21	30000	-30000	Forteresse de la Résistance	-1	-1	-1	-1	-1	-1	0		0
+350	247	23	17	30000	-30000	Avant-poste, Frontière Ouest	-1	-1	-1	-1	-1	-1	0		0
+351	19	0	0	30000	-30000	Le Plateau Immortel	-1	-1	-1	-1	-1	-1	0		0
+352	20	0	0	30000	-30000	Montagnes de la Crête	-1	-1	-1	-1	-1	-1	0		0
+353	251	24	17	30000	-30000	Avant-poste, Frontière Est	-1	-1	-1	-1	-1	-1	0		0
+354	253	22	20	30000	-30000	Prairies à l'ombre du ciel	-1	-1	-1	-1	-1	-1	0		0
+355	242	20	17	30000	-30000	Plaines Primitives	-1	-1	-1	-1	-1	-1	0		0
+356	253	20	17	30000	-30000	Nid Perdu	-1	-1	-1	-1	-1	-1	0		0
+357	254	20	17	30000	-30000	Île Primitive	-1	-1	-1	-1	-1	-1	0		0
+358	251	18	10	-5000	-30000	Catacombes de l'Hérétique	-1	-1	-1	-1	-1	-1	0		0
+359	251	19	10	-5000	-30000	Catacombes de l'Apostat	-1	-1	-1	-1	-1	-1	0		0
+360	251	20	10	-5000	-30000	Catacombes du Chemin Interdit	-1	-1	-1	-1	-1	-1	0		0
+361	246	20	17	30000	-30000	Plage de l'Ile Primitive	-1	-1	-1	-1	-1	-1	0		0
+362	250	20	17	30000	-30000	Antre de Sailren	-1	-1	-1	-1	-1	-1	0		0
+364	21	20	25	30000	-30000	Hellbound	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+365	255	20	25	30000	-30000	Citadelle d'Acier	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+366	255	20	26	-5870	-10600	Citadelle d'Acier	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+367	254	19	25	30000	-30000	Mégalithes enchantés	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+368	253	19	25	30000	-30000	Oasis caché	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+369	252	19	25	30000	-30000	Restes d'un Ancien Temple	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+370	251	19	25	30000	-30000	Dunes de sable balayées	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+371	250	19	25	30000	-30000	Campement de la Caravane	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+372	249	19	25	30000	-30000	Carrière de Hellbound	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+373	242	20	25	30000	-30000	Terres Battues	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+374	247	20	25	30000	-30000	Avant-postes de la Citadelle d'Acier	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+375	246	20	25	30000	-30000	Anomic Foundry	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+376	245	20	25	30000	9500	Tour de l'Infini	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+377	244	20	25	30000	9500	Atelier de Tully	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+378	243	20	25	30000	9500	Tour de Naia	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+379	255	20	25	9500	-30000	Citadelle d'Acier	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+380	255	20	25	9500	-30000	Citadelle d'Acier	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+381	255	20	25	9500	-30000	Citadelle d'Acier	1976	2620	-35600	217400	1024	1024	"0,0144"	map_hellbound	0
+383	22	23	22	30000	-30000	Île des Prières	-1	-1	-1	-1	-1	-1	0		0
+384	255	24	22	-11000	-13000	Cavernes de Cristal	-1	-1	-1	-1	-1	-1	0		0
+385	255	24	22	30000	-11000	Île des Prières	-1	-1	-1	-1	-1	-1	0		0
+386	254	24	22	30000	-5000	Montagnes Chromatique	-1	-1	-1	-1	-1	-1	0		0
+387	253	24	23	-5750	-6210	Demeure du Nuage Noir	-1	-1	-1	-1	-1	-1	0		0
+388	253	24	23	30000	-5750	Île des Prières	-1	-1	-1	-1	-1	-1	0		0
+389	252	24	23	30000	-5000	Récif de Corail	-1	-1	-1	-1	-1	-1	0		0
+390	251	24	23	30000	-1015	Parnassus	-1	-1	-1	-1	-1	-1	0		0
+391	251	24	23	-1015	-30000	Île des Prières	-1	-1	-1	-1	-1	-1	0		0
+392	253	24	22	-5000	-16000	Demeure du Nuage Noir	-1	-1	-1	-1	-1	-1	0		0
+393	253	24	22	30000	-5000	Île des Prières	-1	-1	-1	-1	-1	-1	0		0
+394	250	24	22	-9000	-16000	Place d'Emeraude	-1	-1	-1	-1	-1	-1	0		0
+395	250	24	22	30000	-9000	Île des Prières	-1	-1	-1	-1	-1	-1	0		0
+396	249	24	22	-7400	-16000	Corridor embué	-1	-1	-1	-1	-1	-1	0		0
+397	249	24	22	30000	-7400	Montagnes Chromatique	-1	-1	-1	-1	-1	-1	0		0
+398	246	24	22	-11000	-16000	Jardin de Corail	-1	-1	-1	-1	-1	-1	0		0
+399	246	24	22	30000	-10000	Île des Prières	-1	-1	-1	-1	-1	-1	0		0
+400	245	24	22	-14500	-16000	Jardin de Corail	-1	-1	-1	-1	-1	-1	0		0
+401	245	24	22	-9000	-13000	Place d'Emeraude	-1	-1	-1	-1	-1	-1	0		0
+402	245	24	22	30000	-8500	Île des Prières	-1	-1	-1	-1	-1	-1	0		0
+406	23	17	20	30000	-30000	Île des Âmes : Dystopia	-1	-1	-1	-1	-1	-1	0		0
+407	253	16	19	30000	-30000	Île des Âmes	-1	-1	-1	-1	-1	-1	0		0
+408	253	17	19	30000	-30000	Île des Âmes	-1	-1	-1	-1	-1	-1	0		0
+409	255	16	19	30000	-30000	Village Kamael	251	1522	-127366	35800	1024	1024	"0,053"	map_kamael_village	0
+410	255	17	19	-3650	-5400	Caverne de Nornil	406	1516	-94215	39750	1024	1024	"0,049"	dungeon_map_nornil_cave	0
+411	255	17	19	30000	-3650	Forêt de Mimir	-1	-1	-1	-1	-1	-1	0		0
+412	255	16	20	-6730	-15700	Jardin de Nornil	405	1600	-124450	71670	1024	1024	"0,05"	dungeon_map_nornil_garden	0
+413	255	16	20	30000	-6730	Collines d'or	-1	-1	-1	-1	-1	-1	0		0
+414	254	16	19	3300	-430	Caverne des Âmes	-1	-1	-1	-1	-1	-1	0		0
+415	254	16	19	30000	3300	Île des Âmes	-1	-1	-1	-1	-1	-1	0		0
+416	254	16	19	-430	-30000	Île des Âmes	-1	-1	-1	-1	-1	-1	0		0
+417	252	16	19	30000	-30000	Forêt de Mimir	-1	-1	-1	-1	-1	-1	0		0
+418	252	17	19	30000	-30000	Forêt de Mimir	-1	-1	-1	-1	-1	-1	0		0
+419	251	16	19	30000	-30000	Collines d'or	-1	-1	-1	-1	-1	-1	0		0
+420	251	16	20	30000	-30000	Collines d'or	-1	-1	-1	-1	-1	-1	0		0
+421	251	17	19	30000	-30000	Collines d'or	-1	-1	-1	-1	-1	-1	0		0
+422	205	18	22	30000	-30000	Forteresse de Shanty	564	2111	-62336	143104	1024	1024	"0,05"	fortress_18_22	0
+423	205	19	24	30000	-30000	Forteresse du Sud	717	2434	-31968	208608	1024	1024	"0,05"	fortress_19_24	0
+424	205	20	23	30000	-30000	Forteresse de la Ruche	916	2252	10848	175968	1024	1024	"0,05"	fortress_20_23	0
+425	205	23	21	30000	-30000	Forteresse de Vallée	1457	1948	110432	110432	1024	1024	"0,05"	fortress_23_21	0
+426	205	22	18	30000	-30000	Forteresse d'Ivoire	1207	1322	68864	480	1024	1024	"0,05"	fortress_22_18	0
+427	205	24	19	30000	-30000	Forteresse de Narsell	1614	1594	143168	44864	1024	1024	"0,05"	fortress_24_19	0
+428	205	25	19	30000	-30000	Forteresse de Bayou	1791	1513	175968	34720	1024	1024	"0,05"	fortress_25_19	0
+429	205	23	24	30000	-30000	Forteresse des Sables Blancs	1424	2343	110432	201024	1024	1024	"0,05"	fortress_23_24	0
+430	205	24	15	30000	-30000	Forteresse de la Frontière	1636	973	143168	-86208	1024	1024	"0,05"	fortress_24_15	0
+431	205	22	16	30000	-30000	Forteresse du Marais	1175	1015	65856	-65344	1024	1024	"0,05"	fortress_22_16	0
+432	205	23	13	30000	-30000	Forteresse de l'Archaïsme	1371	621	102304	-151840	1024	1024	"0,05"	fortress_23_13	0
+433	205	20	22	30000	-30000	Forteresse de Floran	841	2034	608	142944	1024	1024	"0,05"	fortress_20_22	0
+434	205	18	20	30000	-30000	Forteresse de la Montagne-Nuage	559	1783	-63296	77184	1024	1024	"0,05"	fortress_18_20	0
+435	205	21	22	30000	-30000	Forteresse de Tanor	1124	2028	44800	133408	1024	1024	"0,05"	fortress_21_22	0
+436	205	20	20	30000	-30000	Forteresse de l'Epine de Dragon	924	1791	1408	77632	1024	1024	"0,05"	fortress_20_20	0
+437	205	22	20	30000	-30000	Forteresse d'Antharas	1229	1785	69184	77088	1024	1024	"0,05"	fortress_22_20	0
+438	205	23	17	30000	-1100	Forteresse de l'Ouest	1406	1172	103776	-20736	1024	1024	"0,05"	fortress_23_17	0
+439	205	23	20	30000	-30000	Forteresse des Chasseurs	1460	1803	110400	77536	1024	1024	"0,05"	fortress_23_20	0
+440	205	22	23	30000	-30000	Forteresse de Aaru	1168	2253	65984	175008	1024	1024	"0,05"	fortress_22_23	0
+441	205	23	16	30000	-30000	Forteresse du Démon	1329	1056	98624	-61920	1024	1024	"0,05"	fortress_23_16	0
+442	205	22	15	30000	-30000	Forteresse du Monastère	1185	852	68032	-98112	1024	1024	"0,05"	fortress_22_15	0
+443	240	20	16	-1300	-30000	Camp Souterrain	-1	-1	-1	-1	-1	-1	0		0
+444	205	23	17	-1100	-30000	Avant-poste, Frontière Ouest	-1	-1	-1	-1	-1	-1	0		0
+445	250	16	20	30000	-6000	Forteresse I	-1	-1	-1	-1	-1	-1	0		0
+446	250	17	19	30000	-3000	Forteresse II	-1	-1	-1	-1	-1	-1	0		0
+447	249	17	19	30000	-3000	Forteresse III	-1	-1	-1	-1	-1	-1	0		0
+451	24	18	16	30000	-4500	Île Fantastique	-1	-1	-1	-1	-1	-1	0		0
+452	255	17	16	-5500	-13800	Colisée sous-terrain	-1	-1	-1	-1	-1	-1	0		0
+453	255	19	26	-6500	-15500	Tour de l'Infini	-1	-1	-1	-1	-1	-1	0		0
+454	254	19	26	-6500	-15500	Tour de l'Infini	-1	-1	-1	-1	-1	-1	0		0
+455	253	19	26	-7500	-15500	Atelier de Tully	-1	-1	-1	-1	-1	-1	0		0
+456	252	19	26	-8500	-13500	Atelier de Tully	-1	-1	-1	-1	-1	-1	0		0
+457	255	18	25	-5000	-30000	Tour de Naia	-1	-1	-1	-1	-1	-1	0		0
+458	255	20	24	-5000	-12000	Tour de Naia	-1	-1	-1	-1	-1	-1	0		0
+459	254	21	25	-5500	-6800	Camp Souterrain	-1	-1	-1	-1	-1	-1	0		0
+460	255	17	11	-6500	-8500	"Kamaloka, Hall de l'Abysse"	-1	-1	-1	-1	-1	-1	0		0
+461	255	18	11	-6500	-8500	"Kamaloka, Hall de l'Abysse"	-1	-1	-1	-1	-1	-1	0		0
+462	255	19	11	-6500	-8500	"Kamaloka, Hall de l'Abysse"	-1	-1	-1	-1	-1	-1	0		0
+463	255	20	11	-6500	-8500	"Au bord de Kamaloka, Hall des Cauchemars"	-1	-1	-1	-1	-1	-1	0		0
+464	255	21	11	-7000	-9000	"Au bord de Kamaloka, Hall des Cauchemars"	-1	-1	-1	-1	-1	-1	0		0
+465	254	17	11	-6500	-8500	"Près de Kamaloka, Hall de l'Abysse"	-1	-1	-1	-1	-1	-1	0		0
+466	254	18	11	-6500	-8500	"Près de Kamaloka, Hall de l'Abysse"	-1	-1	-1	-1	-1	-1	0		0
+467	252	19	23	-4200	-5100	Le Nid d'araignée	-1	-1	-1	-1	-1	-1	0		0
+468	255	17	12	30000	-30000	"Kamaloka, Labyrinthe de l'Abysse"	-1	-1	-1	-1	-1	-1	0		0
+469	255	18	12	30000	-30000	"Kamaloka, Labyrinthe de l'Abysse"	-1	-1	-1	-1	-1	-1	0		0
+470	255	19	12	30000	-30000	"Kamaloka, Labyrinthe de l'Abysse"	-1	-1	-1	-1	-1	-1	0		0
+471	255	20	12	30000	-30000	"Kamaloka, Labyrinthe de l'Abysse"	-1	-1	-1	-1	-1	-1	0		0
+472	255	22	11	30000	-30000	Île du Diable	-1	-1	-1	-1	-1	-1	0		0
+473	254	22	11	30000	-30000	Tunnel des Pirates	-1	-1	-1	-1	-1	-1	0		0
+474	254	17	15	-5000	-10000	Cube de Kratei	-1	-1	-1	-1	-1	-1	0		0
+475	254	17	17	-5000	-10000	Cube de Kratei	-1	-1	-1	-1	-1	-1	0		0
+476	254	18	15	-5000	-10000	Cube de Kratei	-1	-1	-1	-1	-1	-1	0		0
+477	27	0	0	30000	-30000	Germe de la Destruction	-1	-1	-1	-1	-1	-1	0		1
+478	26	0	0	30000	-30000	Germe de l'Infini	-1	-1	-1	-1	-1	-1	0		1
+479	255	12	24	-8000	-15000	Trône de Jinryong	-1	-1	-1	-1	-1	-1	0		1
+480	254	12	24	-8000	-15000	Forteresse de la Destruction	-1	-1	-1	-1	-1	-1	0		1
+481	253	12	24	-8000	-15000	Col de reconnaissance	-1	-1	-1	-1	-1	-1	0		1
+482	252	12	24	-8000	-15000	Central Square	-1	-1	-1	-1	-1	-1	0		1
+483	251	12	24	-8000	-15000	Entrance of Destruction	-1	-1	-1	-1	-1	-1	0		1
+484	255	14	24	-10600	-13100	Porte de la Mort	-1	-1	-1	-1	-1	-1	0		1
+485	254	14	24	-7000	-10600	Hall des Souffrances	-1	-1	-1	-1	-1	-1	0		1
+486	254	14	24	-10600	-13100	Hall de l'Erosion	-1	-1	-1	-1	-1	-1	0		1
+487	254	14	24	-13100	-16500	Coeur de l'Infini	-1	-1	-1	-1	-1	-1	0		1
+488	255	15	25	30000	-30000	Quai Volant de Gludio	93	2574	-159904	241632	1024	1024	"0,05"	map_airship_harbor_gludio	0
+489	255	14	25	30000	-30000	Base de l'Alliance Keucereus	725	2483	-195008	232576	1024	1024	"0,05"	map_union_base_of_kserth	1
+490	255	13	25	30000	-30000	La Fissure Aérienne	579	2543	-226016	232640	1024	1024	"0,042"	map_cleft	1
+491	255	21	17	-8000	-9450	"Rim Pailaka, Rune"	-1	-1	-1	-1	-1	-1	0		0
+492	255	99	99	30000	-30000	Limite	-1	-1	-1	-1	-1	-1	0		0
+493	240	20	16	30000	-1300	Château de Rune	-1	-1	-1	-1	-1	-1	0		0
+494	255	16	11	30000	-30000	Chambre de l'Illusion	-1	-1	-1	-1	-1	-1	0		0
+495	255	16	13	30000	-30000	Chambre de l'Illusion	-1	-1	-1	-1	-1	-1	0		0
+496	255	17	24	30000	-30000	Sanctuaire des Lords of Dawn	-1	-1	-1	-1	-1	-1	0		0
+497	254	17	24	30000	-30000	Nécropole du Disciple (passé)	-1	-1	-1	-1	-1	-1	0		0
+500	28	14	23	30000	-30000	Seed of Annihilation	-1	-1	-1	-1	-1	-1	0		1
+501	246	23	15	-2700	-4000	Monastery of Silence	-1	-1	104192	-92416	1024	1024	"0,05"	dungeon_map_silence1	0
+502	246	23	15	-90	-2690	Monastery of Silence	-1	-1	102912	-89088	1024	1024	"0,05"	dungeon_map_silence2	0
+503	246	23	15	2000	-50	Monastery of Silence	-1	-1	102912	-89088	1024	1024	"0,05"	dungeon_map_silence3	0
+504	250	21	10	-5200	-7410	Monastery of Silence	-1	-1	40960	-253952	1024	1024	"0,05"	dungeon_map_21_10	0
+505	254	21	10	-5200	-7800	Monastery of Silence	-1	-1	-1	-1	-1	-1	0		0
+506	251	22	10	-7150	-8900	Monastery of Silence	-1	-1	-1	-1	-1	-1	0		0
+507	253	22	10	-9350	-9750	Beast Farm	-1	-1	-1	-1	-1	-1	0		0
+508	249	21	16	-800	-1280	Rune Township	-1	-1	-1	-1	-1	-1	0		0
+509	248	22	21	30000	-30000	Watcher's Tomb	-1	-1	-1	-1	-1	-1	0		0

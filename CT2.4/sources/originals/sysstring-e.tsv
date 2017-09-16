@@ -1,0 +1,2223 @@
+﻿# id	name
+1	Equipment
+2	Item
+3	Quest Item
+4	Bronze
+5	Steel
+6	Wood
+7	Bone
+8	Cloth
+9	Leather
+10	Cotton
+11	Fine Steel
+12	Oriharukon
+13	Damascus
+14	Adamantaite
+15	Blood Steel
+16	Paper
+17	Chrysolite
+18	Silver
+19	Gold
+20	Adamantaite
+21	Mithril
+22	Horn
+23	Born of Dragon
+24	Crystal
+25	Dyestuff
+26	Cobweb
+27	None
+28	Underwear
+29	Rear
+30	Lear
+31	Neck
+32	Rfinger
+33	Lfinger
+34	Head
+35	Rhand
+36	Lhand
+37	Gloves
+38	Chest
+39	Legs
+40	Feet
+41	Back
+42	Lrhand
+43	Sword
+44	Blunt
+45	Dagger
+46	Pole
+47	Fist
+48	Bow
+49	Etc
+50	Name
+51	Slot
+52	Weight
+53	Material
+54	P. Def.
+55	P. Atk.
+56	Weapon Type
+57	Description
+58	Air
+59	Branch of Orbis Arbor
+60	Branch of Worldtree
+61	Brass
+62	Corpse
+63	Crow
+64	Diamond
+65	Drug
+66	Eyeball
+67	Feather
+68	Flax
+69	Fur
+70	Hatching Egg
+71	Insect
+72	Leather of Dragon
+73	Leather of Drake
+74	Leather of Lion
+75	Leather of Manticore
+76	Leather of Puma
+77	Leather of Salamander
+78	Leather of Unicorn
+79	Liquid
+80	Parchment
+81	Sand
+82	Scale of Dragon
+83	Silk
+84	Skull
+85	Skull of Wyvern
+86	Water
+87	Wool
+88	Lv
+89	Exp
+90	HP
+91	MP
+92	SP
+93	Combat
+94	P. Atk.
+95	P. Def.
+96	Accuracy
+97	Evasion
+98	M. Atk.
+99	M. Def.
+100	Social
+101	Karma
+102	Fame
+103	Stats
+104	STR
+105	DEX
+106	CON
+107	INT
+108	WIT
+109	MEN
+110	2nd Attributes
+111	Atk. Spd.
+112	Casting Spd.
+113	Crit. Rate
+114	Load
+115	Condition
+116	Equip
+117	Item
+118	Quest
+119	Skills
+120	Active
+121	Passive
+122	Spells
+123	I
+124	II
+125	III
+126	IV
+127	Actions
+128	@Clan
+129	Basic
+130	Party
+131	Warehouse
+132	Stored Items
+133	Items to Retrieve
+134	Adena
+135	Fee
+136	Store
+137	Items on Sale
+138	Inventory
+139	Purchase List
+140	Confirm
+141	Cancel
+142	Price
+143	Price
+144	All
+145	Help
+146	Options
+147	Restart
+148	Exit Game
+149	Log In
+150	ID
+151	Password
+152	Log In
+153	Exit
+154	New Account
+155	Lost Account
+156	Options
+157	Select Character
+158	Create
+159	Delete
+160	Start
+161	Previous
+162	Create
+163	Name
+164	Race
+165	Cls
+166	Gender
+167	Hairstyle
+168	Hair Color
+169	Face
+170	Human
+171	Elf
+172	Dark Elf
+173	Orc
+174	Dwarf
+175	Fighter
+176	Mystic
+177	Male
+178	Female
+179	Type A
+180	Type B
+181	Type C
+182	Type D
+183	Select
+184	Yes
+185	No
+186	Type E
+187	Type F
+188	#Party
+189	Material
+190	Price
+191	Name
+192	Quantity
+193	System Menu
+194	Status
+195	Inventory
+196	Skills & Magic
+197	Action
+198	Quest
+199	Communication
+200	Party Info
+201	Clan Info
+202	Buddy Informaion
+203	Edit Profile
+204	Social
+205	Options
+206	Video
+207	Audio/System
+208	Game
+209	Resolution
+210	Gamma
+211	Texture
+212	Shadows
+213	Ground Detail
+214	Terrain Range
+215	PC/NPC Range
+216	SFX Vol.
+217	Music Vol.
+218	Apply
+219	800*600 32bit
+220	1024*768 32bit
+221	1280*960 32bit
+222	1280*1024 32bit
+223	1600*1200 32bit
+224	High
+225	Average
+226	Low
+227	On
+228	Off
+229	Underwear
+230	Headgear
+231	Shield
+232	Gloves
+233	Boots
+234	Cloak
+235	Upper Body
+236	Lower Body
+237	Earring
+238	Necklace
+239	Ring
+240	Quest Item
+241	Money
+242	One Handed
+243	Two Handed
+244	Robe
+245	Light
+246	Heavy
+247	Human Fighter
+248	Warrior
+249	Gladiator
+250	Warlord
+251	Human Knight
+252	Paladin
+253	Dark Avenger
+254	Rogue
+255	Treasure Hunter
+256	Hawkeye
+257	Human Mystic
+258	Human Wizard
+259	Sorcerer
+260	Necromancer
+261	Warlock
+262	Cleric
+263	Bishop
+264	Prophet
+265	Elven Fighter
+266	Elven Knight
+267	Temple Knight
+268	Sword Singer
+269	Elven Scout
+270	Plains Walker
+271	Silver Ranger
+272	Elven Mystic
+273	Elven Wizard
+274	Spellsinger
+275	Elemental Summoner
+276	Elven Oracle
+277	Elven Elder
+278	Dark Fighter
+279	Palus Knight
+280	Shillien Knight
+281	Bladedancer
+282	Assassin
+283	Abyss Walker
+284	Phantom Ranger
+285	Dark Mystic
+286	Dark Wizard
+287	Spellhowler
+288	Phantom Summoner
+289	Shillien Oracle
+290	Shillien Elder
+291	Orc Fighter
+292	Orc Raider
+293	Destroyer
+294	Monk
+295	Tyrant
+296	Orc Mystic
+297	Orc Shaman
+298	Overlord
+299	Warcryer
+300	Dwarven Fighter
+301	Scavenger
+302	Bounty Hunter
+303	Artisan
+304	Warsmith
+305	Graphic Cursor
+306	Very Fast
+307	Fast
+308	Normal
+309	Slow
+310	Very Slow
+311	Active Skill
+312	Passive Skill
+313	Magic
+314	"Clan "
+315	M. Atk.
+316	Atk. Spd.
+317	DEF Rate
+318	Dodge
+319	M. Def.
+320	MP Cost
+321	Range
+322	Price
+323	M. Def.
+324	Accepted Quest
+325	Description
+326	Item
+327	Cancel
+328	Announcements
+329	Language
+330	Invite
+331	Title
+332	Set Crest
+333	Battle
+334	Truce
+335	Surrender
+336	Yield
+337	Leave
+338	Dismiss
+339	In Siege
+340	In War
+341	Disband
+342	Leader
+343	Base
+344	Hideout Exists
+345	Castle Exists
+346	Status
+347	On
+348	Out
+349	Protecting Castle
+350	Reflection
+351	Refresh Rate
+352	Reflections
+353	All
+354	Sky
+355	+Trade
+356	System
+357	Damage
+358	Chat
+359	Shout
+360	Clan
+361	Party
+362	Trade
+363	Whisper
+364	Skill List
+365	Required SP
+366	Description
+367	Requirements
+368	Learn
+369	List
+370	Lower Detail
+371	Unacquired state
+372	To Village
+373	To Outpost
+374	To Clan Hall
+375	To Castle
+376	Effect
+377	Home
+378	Up
+379	Favorite
+380	Add Fav.
+381	Region
+382	Clan
+383	General
+384	Message
+385	Abort
+386	<Private Store>
+387	Community
+388	MP Increase
+389	Party
+390	Community
+391	Cls
+392	Lv
+393	Name
+394	Range
+395	P/S
+396	Invite
+397	Options
+398	Whisper
+399	Target
+400	Auto Join
+401	Show Level
+402	Show Class
+403	Memo
+404	Soulshot Used
+405	Short
+406	Mid
+407	Long
+408	Leader
+409	Member
+410	Solo
+411	Not open
+412	Type
+413	Title
+414	Registered
+415	Administrator
+416	No.
+417	Author
+418	Date
+419	Read
+420	Search
+421	Write
+422	View List
+423	Enter
+424	Change
+425	Delete
+426	Reply
+427	Body
+428	Start
+429	Msg.
+430	Clan
+431	No Clan
+432	Speed
+433	Status
+434	Character Status
+435	Display
+436	Player
+437	Monsters
+438	Other PCs
+439	Clan
+440	Party
+441	General
+442	Enter Chat
+443	Use
+444	Chat
+445	Exchange
+446	System Menu
+447	Map
+448	Tutorial
+449	Choose Server
+450	Race
+451	Name
+452	Traffic
+453	PvP
+454	Age Limit
+455	Open Beta Server
+456	Down
+457	Normal
+458	Heavy
+459	On
+460	Off
+461	Over 18 years
+462	Over 15 years
+463	Tracking
+464	Texture Filter
+465	Fixed
+466	Light
+467	Heavy
+468	For Each
+469	Adena
+470	Petition
+471	Current Position
+472	Petition - GM
+473	Cancel
+474	Begin
+475	End
+476	Consultation
+477	Skill Trainer
+478	Interface
+479	Initialize
+480	Settling
+481	Select Speaker
+482	Stereo Headphones
+483	Stereo Speaker
+484	4-channel Speaker
+485	5.1-channel Speaker
+486	Party Loot
+487	Finders Keepers
+488	Random
+489	Loot Dist.
+490	Alliance
+491	Information
+492	Action
+493	Items
+494	Pet Interface
+495	Summon Interface
+496	Spiritshot Used
+497	Name
+498	Private Store
+499	<Private Store - Buy>
+500	<Private Store - Sell>
+501	Quantity
+502	Wish List
+503	For Sale
+504	Double Blades
+505	Servitors
+506	Pets
+507	Bartz
+508	Sieghardt
+509	Kain
+510	Lionna
+511	Erica
+512	Gustin
+513	Devianne
+514	Hindemith
+515	Teon
+516	Franz
+517	Luna
+518	Kastien
+519	Airin
+520	Staris
+521	Ceriel
+522	Fehyshar
+523	Elhwynna
+524	Ellikia
+525	Shikken
+526	Scryde
+527	Frikios
+528	Ophylia
+529	Shakdun
+530	Tarziph
+531	Aria
+532	Esenn
+533	Elcardia
+534	Yiana
+535	Khadia
+536	Ungoat
+537	Lv
+538	Warning
+539	Teen
+540	PC/NPC Limit
+541	Looking for Party
+542	Upper and Lower Body
+543	<Previous
+544	Next>
+545	Bid
+546	Cancel bid
+547	Re-bid
+548	List of Bidders
+549	Register item for sale
+550	Village Name
+551	Clan
+552	Ending Date
+553	Cancel auction
+554	List
+555	Minimum Bid
+556	Region where teleporting is possible
+557	Send package
+558	To:
+559	$Alliance
+560	Sending list
+561	Fee
+562	List
+563	Purchase
+564	Item information
+565	Items required
+566	Auto Code
+567	Approved
+568	Waiting
+569	Lord of alliance
+570	Date and time of application
+571	Alliance Name
+572	Participate
+573	Withdraw
+574	Approve
+575	Cancel
+576	Clans Attacking
+577	Clans Defending
+578	Clans Waiting
+579	Refuse
+580	Clan
+581	Status
+582	Current Time
+583	Siege Date
+584	Undecided
+585	Automatic setting
+586	Attackers
+587	Defenders
+588	Lord
+589	Clan
+590	Alliance
+591	No alliance
+592	Alliance
+593	Siege Information
+594	Modeling Detail
+595	No castle owner
+596	Private Store - Sell
+597	Private Store - Buy
+598	Lineage II User Agreement
+599	Agree
+600	Disagree
+601	Ping
+602	Type
+603	Quality
+604	Clan
+605	Ally
+606	Game Pad
+607	Motion Detail
+608	Auctioneer
+609	All Items For Sale
+610	My Items For Sale
+611	Return
+612	Gludio Castle
+613	Dion Castle
+614	Giran Castle
+615	Innadril Castle
+616	Oren Castle
+617	Aden Castle
+618	Monster Race Track
+619	Coliseum
+620	Front of the Outer Gate of Gludio Castle
+621	Above the Outer Gate of Gludio Castle
+622	Front of the Outer Gate of Dion Castle
+623	Above the Outer Gate of Dion Castle
+624	Front of the Outer Gate of Giran Castle
+625	Above the Outer Gate of Giran Castle
+626	Front of the Outer Gate of Innadril Castle
+627	Above the Outer Gate of Innadril Castle
+628	Front of the Outer Gate of Oren Castle
+629	Above the Outer Gate of Oren Castle
+630	Front of the Outer Gate of Aden Castle
+631	Above the Outer Gate of Aden Castle
+632	Center of the Monster Race Track
+633	The finish line of the Monster RaceTrack
+634	Left Side of the Coliseum
+635	Center of the Coliseum
+636	Right side of the Coliseum
+637	Fee
+638	Dye Information
+639	Symbol Information
+640	Change of Basic Ability
+641	Manufacturing Cost
+642	Success
+643	Recipe List
+644	Creator MP
+645	Create
+646	Close
+647	Results
+648	Number of Retained Items
+649	Recipe Book
+650	Select the area to watch. But be careful the cubic will disapper while watching.
+651	Symbol Drawing
+652	Delete
+653	Acronym
+654	Add
+655	Macro List
+656	Macro Edit
+657	More Info.
+658	Save
+659	Dye List
+660	List of Symbols
+661	Production List
+662	Recipe Information
+663	Item Creation
+664	Game Observation
+665	Private Creation
+666	Privileges
+667	Authorize
+668	Privileges
+669	Calculator
+670	Event Number
+671	Lotto Numbers
+672	Selected Name
+673	Clan Related Privileges
+674	Join a Clan
+675	Ennoble
+676	View Warehouse Contents
+677	Clan Crest Management
+678	Clan Hall Related Privileges
+679	Entrance Privileges
+680	Other Functions
+681	Dismiss
+682	Castle Rights
+683	Opening a Door
+684	Other Rights
+685	Dismiss
+686	Privileges
+687	Teleport
+688	Character Summon
+689	Chatting Watch
+690	NPC Search
+691	Item Search
+692	Skill Search
+693	Surveillance
+694	Submit
+695	Select a Type
+696	Immobility
+697	Recovery Related
+698	Bug Report
+699	Quest Related
+700	Report a Bad User
+701	Suggestions
+702	Game Tips
+703	Operation Related
+704	Other
+705	Viewing of Related Information
+706	Type
+707	Enter a Petition
+708	Contents of a Petition
+709	PVP/PK
+710	Recommend
+711	Macro
+712	Here I Come
+713	Half Moon Love
+714	Everlasting
+715	Dark Side of the Moon
+716	Wind Rider
+717	Shooting Star
+718	Cyclone Thunder
+719	Hungry Baby
+720	Salty Dog
+721	Raging Revolution
+722	Valentine Blue
+723	Light My Fire
+724	Red Bullet
+725	Shining Silver
+726	Over the Top
+727	Royal Straight
+728	All Seven
+729	Nasty Green
+730	Shortcut
+731	Typhoon Tiger
+732	Red Hot
+733	Galaxy Express
+734	Best Condition
+735	Albatross
+736	Number of Needed Items
+737	Number of Kept Items
+738	Manor
+739	Race Manager
+740	-_-ㆀ
+741	In The Process Of Watching A Game
+742	Ingredient(s)
+743	Result(s)
+744	Purchase Price
+745	Good
+746	Average
+747	Bad
+748	Announcement
+749	This is an announcement
+750	Free Community
+751	This is a Free Community.
+752	Seresin
+753	Roien
+754	Gallint
+755	Cedric
+756	Nerufa
+757	Asterios
+758	Orfen
+759	Mitrael
+760	Thifiel
+761	Lithra
+762	Lockirin
+763	Kakai
+764	Cadmus
+765	Athebaldt
+766	Blackbird
+767	Ramsheart
+768	Esthus
+769	Vasper
+770	Lancer
+771	Ashton
+772	Waytrel
+773	Waltner
+774	Tahnford
+775	Hunter
+776	Dewell
+777	Rodemaye
+778	Ken Rauhel
+779	Ken Abigail
+780	Ken Orwen
+781	Van Holter
+782	Desperion
+783	Einhovant
+784	Shunaiman
+785	Faris
+786	Tor
+787	Carneiar
+788	Dwyllios
+789	Baium
+790	Hallate
+791	Zaken
+792	Core
+793	Clan Hall Auction Test
+794	Clan Hall Manager
+795	Clan Hall Info
+796	Consumables
+797	Manufacturing price
+798	Random including spoil
+799	By turn
+800	By turn including spoil
+801	Passenger Boat Info.
+802	Clan Home
+803	Type G
+804	No distribution
+805	Credit
+806	Read access
+807	Write access
+808	Quantity
+809	Clan Community
+810	No Access
+811	List of Articles to Try On
+812	Selection List
+813	Cost
+814	Dawn
+815	Dusk
+816	Seal of Avarice
+817	Seal of Gnosis
+818	Seal of Strife
+819	Level 31 and Below
+820	Level 42 and Below
+821	Level 53 and Below
+822	No Level Limit
+823	Current Owner
+824	General
+825	Festival
+826	Seal Status
+827	Seal Description
+828	Victory
+829	In Progress
+830	Highest Score
+831	Score
+832	Participant
+833	Status
+834	My Current Status
+835	Cabal
+836	Seal
+837	Current Total
+838	Last Week's Total
+839	Seal Stones
+840	Total Score
+841	Total Rate of Occupation
+842	Delete Title
+843	Delete Crest
+844	Level 64 and Below
+845	Competition Results
+846	Tie
+847	Trying on
+848	Evaluation of Petitions
+849	Evaluate
+850	Very Good
+851	Good
+852	Fair
+853	Poor
+854	Very Poor
+855	Customer Satisfaction Rating
+856	Other Opinions
+857	Server Selection Information
+858	Unlimited
+859	+
+860	Location
+861	Repeatable
+862	One-time
+863	Solo
+864	Party
+865	Location Indicator Available
+866	None
+867	Glow Effect A
+868	Anti-Aliasing
+869	None
+870	2X
+871	4X
+872	Name
+873	The Clan One Belongs To
+874	Close Range Attack Type Fighter
+875	Remote Range Attack Type Fighter
+876	Defensive Type Fighter
+877	Party Assisting Fighter
+878	Attack Type Wizard
+879	Healer/Assistant Wizard
+880	Summoner
+881	Indicator of the Abnormal State of a Party Member
+882	The Historical Record of the Seven Signs
+883	View Rights
+884	Re-Login
+885	Map
+886	Target Loc.
+887	Current Loc.
+888	Aden
+889	Elmore
+890	Destruction
+891	Crystallization
+892	Macro Deletion
+893	No clan hall exists.
+894	At Peace
+895	Clan
+896	Messenger
+897	Chat Options
+898	Done
+899	Go
+900	Move
+901	Information
+902	Petition Invitation
+903	Escape
+904	Friends
+905	Mail
+906	Initial State
+907	Counting In Progress
+908	Quit
+909	To
+910	Authoring Date
+911	Author
+912	Reply
+913	Deliver
+914	Store
+915	Mail Writing
+916	Scheduled Deletion Date
+917	Inbox
+918	Sent Box
+919	Mail Archive
+920	Temporary Mail Archive
+921	Send Global Mail
+922	Level
+923	Dawn
+924	Dusk
+925	Map
+926	Key Security
+927	Transparent
+928	3D Arrow
+929	Oracle of Dusk
+930	Oracle of Dawn
+931	Seal Stones
+932	Turned In
+933	Ancient Adena
+934	Cycle
+935	Possession
+936	Not In Possession
+937	Projection
+938	Refresh
+939	Back
+940	Expected Ownership of a Seal Stone
+941	Necropolis of Sacrifice (Level 20-30)
+942	Southern Shore of Gludio Territory
+943	The Pilgrim's Necropolis (Level 30-40)
+944	"Fortress of Resistance, Near Dion Territory"
+945	Necropolis of Worship (Level 40-50)
+946	Near Alligator Island in Innadril Territory
+947	The Patriot's Necropolis (Level 50-60)
+948	Northern Gludio Castle in Gludio Territory
+949	Necropolis of Devotion (Level 60-70)
+950	Near Altar of Rites in Dark Forest
+951	Necropolis of Martyrdom (Level 60-70)
+952	Giran Territory near Giran Castle
+953	The Saint's Necropolis (Level 70-80)
+954	Near Field of Whispers in Innadril Territory
+955	The Disciple's Necropolis (Level 70-80)
+956	Near Devastated Castle in Aden Territory
+957	Catacomb of the Heretic (Level 30-40)
+958	Near the Execution Grounds in Dion Territory
+959	Catacomb of the Branded (Level 40-50)
+960	Near Giran Harbor in Giran Territory
+961	Catacomb of the Apostate (Level 50-60)
+962	Near Plains of the Lizardmen in Oren Territory
+963	Catacomb of the Witch (Level 60-70)
+964	Near the Forest of Mirrors in Aden Territory
+965	Catacomb of Dark Omens (Level 70-80)
+966	Near Dark Elf Village in Oren Territory
+967	Catacomb of the Forbidden Path (Level 70-80)
+968	Near Hunters Village in Aden Territory
+969	Pet Name
+970	Name exists.
+971	No name exists.
+972	Seven Signs Event Period
+973	Currently Preparing for the Quest Event
+974	Quest Event Period
+975	Results Being Tallied
+976	Seal Validation Period
+977	System Voice
+978	Tutorial Voice
+979	Screenshot
+980	Bitmap
+981	High
+982	Average
+983	Low
+984	New
+985	Rename
+986	Delete
+987	Alert when a contact comes online.
+988	Alert when a message is received.
+989	Alert when an e-mail is received.
+990	Play sounds.
+991	Auto reject contact list invites.
+992	Hide all chat windows upon minimizing.
+993	Block
+994	Change Group
+995	MSN Messenger Info
+996	MSN Messenger
+997	Chat with Friends
+998	Log out
+999	Lineage 2 Messenger
+1000	Lineage 2 Messenger
+1001	Options
+1002	Chat
+1003	Log in to .NET Passport
+1004	E-mail
+1005	Password
+1006	Online
+1007	Offline
+1008	Back
+1009	Change Nickname
+1010	Edit Groups
+1011	Other Options
+1012	Number chatting:
+1013	" friend(s)"
+1014	Invite
+1015	Online
+1016	Busy
+1017	Be Right Back
+1018	Away
+1019	On the Phone
+1020	Out to Lunch
+1021	Appear Offline
+1022	Benchmark
+1023	Regeneration
+1024	Hair Accessory
+1025	Enter Chat Message
+1026	Allow chatting after notifying my online status.
+1027	Block from chatting without disclosing my online status.
+1028	Add this person to my contact list.
+1029	Location
+1030	Lv Limit
+1031	Party Membership
+1032	Set Room
+1033	Kick
+1034	Loc.
+1035	Lvl.
+1036	Party
+1037	Previous
+1038	Next
+1039	List Update
+1040	Create Room
+1041	Auto Join
+1042	Max. Members
+1043	Min.
+1044	Max.
+1045	My Level Range
+1046	All
+1047	Near Me
+1048	Talking Island
+1049	Gludio
+1050	Dark Elven Ter.
+1051	Elven Territory
+1052	Dion
+1053	Giran
+1054	Neutral Zone
+1055	Lyonn
+1056	Schuttgart
+1057	Oren
+1058	Hunters Village
+1059	Innadril
+1060	Aden
+1061	Party Candidate
+1062	Room Leader
+1063	Party Member
+1064	My Coordinates
+1065	"Standard Coordinates (x, y, z)"
+1066	Ordinate
+1067	Abscissa
+1068	Create a Race Track
+1069	Remove a Race Track
+1070	Select a Target
+1071	Lockup a Party
+1072	Lift a Lockup
+1073	Pause
+1074	Resuming of a Race
+1075	Start of a Race
+1076	End of a Race
+1077	Apply
+1078	Send
+1079	Command
+1080	Ending Message
+1081	Fence Up
+1082	Fence Down
+1083	Team 1 Firecracker
+1084	Team 2 Firecracker
+1085	Name of Team 1
+1086	Name of Team 2
+1087	Team 1's Party Representative
+1088	Team 2's Party Representative
+1089	Race Setup File
+1090	Command File
+1091	Formation of Team 1
+1092	Formation of Team 2
+1093	Counter
+1094	Team 1
+1095	Team 2
+1096	Message
+1097	Locking in Progress...
+1098	Removal in Progress...
+1099	Creating in Progress...
+1100	Stopping in Progress...
+1101	Resuming of the race is in progress...
+1102	Starting...
+1103	Ending...
+1104	Menu of Online Game Commentator
+1105	Select the location of a fence.
+1106	Online Game Observer
+1107	Race Track ID
+1108	Remaining Time
+1109	" Days"
+1110	" Hours"
+1111	" Minutes"
+1112	Fishing
+1113	Current Seeds
+1114	Current Crops
+1115	Basic Info
+1116	Current
+1117	Next
+1118	View
+1119	Seed Purchase
+1120	Seed Name
+1121	Residual
+1122	Sales
+1123	Sales Price
+1124	Crop Name
+1125	Buy
+1126	Buy Price
+1127	Reward
+1128	Type 1
+1129	Type 2
+1130	Crop Sales
+1131	"General/Alternative Crop Common, All Territory Common"
+1132	Seed Price
+1133	Crop Price
+1134	Reward 1
+1135	Reward 2
+1136	Seed on Sale
+1137	Today Sales
+1138	Today Price
+1139	Next Sales
+1140	Next Price
+1141	Next Purchase
+1142	Edit Sales
+1143	Set Next Day
+1144	Reset Sales
+1145	Crop Purchase
+1146	Today Buy
+1147	Today Price
+1148	Reward
+1149	Next Price
+1150	Next Reward
+1151	Stop Purchase
+1152	Crop Sale
+1153	Territory
+1154	Remaining
+1155	My Crops
+1156	Sales
+1157	Sell
+1158	Max Price
+1159	Duelist
+1160	Dreadnought
+1161	Phoenix Knight
+1162	Hell Knight
+1163	Sagittarius
+1164	Adventurer
+1165	Archmage
+1166	Soultaker
+1167	Arcana Lord
+1168	Cardinal
+1169	Hierophant
+1170	Eva's Templar
+1171	Sword Muse
+1172	Wind Rider
+1173	Moonlight Sentinel
+1174	Mystic Muse
+1175	Elemental Master
+1176	Eva's Saint
+1177	Shillien Templar
+1178	Spectral Dancer
+1179	Ghost Hunter
+1180	Ghost Sentinel
+1181	Storm Screamer
+1182	Spectral Master
+1183	Shillien Saint
+1184	Titan
+1185	Grand Khavatari
+1186	Dominator
+1187	Doom Cryer
+1188	Fortune Seeker
+1189	Maestro
+1190	Macro List
+1191	Count
+1192	Message
+1193	View Record
+1194	Check Clan Hall Location
+1195	HP Cost
+1196	Show Region
+1197	System Message Window
+1198	Package Sale
+1199	Remaining Time
+1200	Quest Name
+1201	Requirements
+1202	Repeat
+1203	Contact NPC
+1204	Quest Introduction
+1205	Declare War
+1206	End War
+1207	Penalty
+1208	Register
+1209	Delete
+1210	Clan War
+1211	Hero Voice
+1212	General Manufacture
+1213	Dwarf Manufacture
+1214	General Recipe Book
+1215	Dwarf Recipe Book
+1216	Private Warehouse
+1217	Clan Warehouse
+1218	Castle Warehouse
+1219	Req. EXP
+1220	Item Enchant
+1221	Choose Enchant Target
+1222	Monument of Heroes
+1223	Party Member
+1224	Next Sale Limit
+1225	Next Buy
+1226	Next Buy Limit
+1227	All Members
+1228	Leader Chat
+1229	Shader
+1230	HDR Rendering A
+1231	HDR Rendering B
+1232	HDR Rendering C
+1233	Very High
+1234	High
+1235	Average
+1236	Low
+1237	Very Low
+1238	Very Wide
+1239	Wide
+1240	Average
+1241	Narrow
+1242	Very Narrow
+1243	Goddard Castle
+1244	In Front of Goddard Castle Outer Door
+1245	At the Top of Goddard Castle Outer Door
+1246	Glow Effect B
+1247	Rune
+1248	Goddard
+1249	Lock Camera
+1250	Replay File Name
+1251	Replay
+1252	Move to Arena
+1253	View the Chat Window
+1254	Pumping!
+1255	Reeling!
+1256	The pumping was successful.
+1257	The reeling was successful.
+1258	The pumping failed.
+1259	The reeling failed.
+1260	The fish did not take the bait.
+1261	The fish took the bait.
+1262	The fishing attempt failed.
+1263	The allotted time has been exceeded.
+1264	The fishing was successful.
+1265	Owner
+1266	Parties:
+1267	Members:
+1268	Quit
+1269	Status of Being Open to the Public
+1270	Village
+1271	Clan (Bid)
+1272	Delete
+1273	<Private Store - Package Sale>
+1274	Forced Petition
+1275	Server Transfer
+1276	- Selection -
+1277	PC Bang Points
+1278	"One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten"
+1279	"Ten, Hundred, Thousand, Ten Thousand, Hundred Thousand"
+1280	"Ten Thousand, Hundred Million"
+1281	"Thousand, Million, Billion"
+1282	"Million, thaisuffix1, thaisuffix2"
+1283	findprivatestore
+1284	General Field
+1285	Peaceful Zone
+1286	Siege War Zone
+1287	Altered Zone
+1288	Altered Zone
+1289	Seven Signs Zone
+1290	PvP Zone
+1291	D Grade
+1292	C Grade
+1293	B Grade
+1294	A Grade
+1295	S Grade
+1296	Hunting Zone
+1297	Raid
+1298	Region Info
+1299	Hunting Zone Name
+1300	Zone Type
+1301	Raid Name
+1302	Points
+1303	Region Name
+1304	Affiliated Territory
+1305	Rank
+1306	PC Name
+1307	Total Score
+1308	Accumulated Score
+1309	Search Area
+1310	Search
+1311	Clan Reputation Score
+1312	Territory
+1313	Fields
+1314	Dungeon
+1315	"Castle, Town"
+1316	Harbor
+1317	Clan Hall
+1318	Arena
+1319	Other
+1320	Ranking
+1321	Clan
+1322	Member Info
+1323	Privileges
+1324	War Info
+1325	Edit Auth.
+1326	Edit Crest
+1327	Title
+1328	Rank
+1329	Order of Knights
+1330	Change Title
+1331	Change Rank
+1332	Sponsor
+1333	Select
+1334	Dismiss
+1335	Enter the title you wish to change.
+1336	(Up to 16 characters)
+1337	Confirm
+1338	Manage Clan Crest
+1339	Current Registered Crest
+1340	Manage Clan Insignia
+1341	Current Registered Insignia
+1342	Cancel
+1343	Delete
+1344	Manage Titles
+1345	Edit $s1's Privileges
+1346	Warehouse Search
+1347	Apprentice
+1348	Manage Ranks
+1349	Troops/Fame
+1350	Bulletin Board Administration
+1351	Clan Hall Privileges
+1352	Entry/Exit Rights
+1353	Right to Dismiss
+1354	Use Functions
+1355	Set Functions
+1356	Auction
+1357	Castle Privileges
+1358	Manor Admin
+1359	Manage Taxes
+1360	Siege War
+1361	Mercenaries
+1362	Miscellaneous
+1363	Party
+1364	Close
+1365	Status
+1366	Period
+1367	Declare War
+1368	Next Page
+1369	Expiration Date
+1370	Clan Skills
+1371	Clan Structural Diagram
+1372	Clan Rep
+1373	Clan Rank
+1374	Not Ranked
+1375	Top
+1376	" - Edit Privileges"
+1377	System Privileges
+1378	Waiting List
+1379	Whisper
+1380	List Update
+1381	Rm. Invite
+1382	Looting
+1383	General
+1384	Loot Leader
+1385	Vagabond
+1386	Vassal
+1387	Apprentice
+1388	Heir
+1389	Knight
+1390	Elder
+1391	Baron
+1392	Viscount
+1393	Count
+1394	Marquis
+1395	Duke
+1396	Grand Duke
+1397	Distinguished King
+1398	Emperor
+1399	Main Clan
+1400	1st Royal Guard
+1401	2nd Royal Guard
+1402	1st Order of Knights
+1403	2nd Order of Knights
+1404	3rd Order of Knights
+1405	4th Order of Knights
+1406	1st Level
+1407	2nd Level
+1408	3rd Level
+1409	4th Level
+1410	5th Level
+1411	Main Clan Rank
+1412	Royal Guard Rank
+1413	Order of Knights Rank
+1414	Academy Rank
+1415	Unknown
+1416	.
+1417	GPU Animation
+1418	Weather Effects
+1419	Clan Academy
+1420	Rune Castle
+1421	In Front of the Outer Castle Gate of Rune Castle
+1422	Top of the Outer Castle Gate of Rune Castle
+1423	Schuttgart Castle
+1424	In Front of the Outer Castle Gate of Schuttgart Castle
+1425	Top the Outer Castle Gate of Schuttgart Castle
+1426	Adventurer Guide Book
+1427	Select a unit.
+1428	Results
+1429	Declared
+1430	Under Attack
+1431	Apprentice
+1432	Status
+1433	Knight Commander
+1434	Buy
+1435	My Exchange List
+1436	Clan’s Skill Trainer
+1437	Req. Reputation
+1438	Captain of the Royal Guard
+1439	You are currently registered as party matching standby status.
+1440	Waiting List for Partymatching
+1441	Remove clan title
+1442	Points
+1443	Change
+1444	Mute all sounds.
+1445	No Captain exists.
+1446	Penalty Information
+1447	Title
+1448	PC Room Coupon Event
+1449	Note
+1450	Status
+1451	Affiliation Ranking
+1452	Academy
+1453	Individual Ranking
+1454	No score
+1455	Useful Information
+1456	Disable Game Tips
+1457	A new party room will now be created.
+1458	A new party room will now be created and characters will be invited.
+1459	Exit
+1460	The room settings will be changed.
+1461	World Info.
+1462	Find
+1463	- Cursed Weapon -
+1464	Demonic Sword Zariche
+1465	- Select an Affiliation -
+1466	- Select a Member -
+1467	Change
+1468	Change
+1469	Edit Clan Member's Affiliation
+1470	Affiliation:
+1471	Member:
+1472	Hide Dropped Item(s)
+1473	NCOTP
+1474	Enlarge Map
+1475	Minimize
+1476	Decline Duels
+1477	Augment
+1478	Remove Augmentation
+1479	Remove
+1480	Item for Augmentation
+1481	Varnish
+1482	Removal Fee
+1483	Gemstones Needed
+1484	Command
+1485	Hide Command On-screen Text
+1486	Toggle Buff/Debuff
+1487	Party Window Options
+1488	Small Party Window
+1489	<Weapon Specifications>
+1490	<Augmentation Effects>
+1491	Unable to Trade/Drop
+1492	<Shadow Item Info>
+1493	Remaining Mana/Total Mana:
+1494	Command Channel Information
+1495	Command Channel
+1496	View Buffs
+1497	View Debuffs
+1498	Turn Off Buff View
+1499	Blood Sword Akamanah
+1500	Song/Dance
+1501	1
+1502	2
+1503	3
+1504	4
+1505	5
+1506	6
+1507	7
+1508	8
+1509	9
+1510	0
+1511	00
+1512	+
+1513	-
+1514	x
+1515	/
+1516	=
+1517	B/S
+1518	C
+1519	CE
+1520	Reset to Default
+1521	Assign Shortcut
+1522	Initialize
+1523	Shortcut
+1524	Assign Item Shortcut
+1525	Shortcut to Assign
+1526	Skill Enchant
+1527	Skill Safe Enchant
+1528	Untrain
+1529	Route Change
+1530	Attribute Enchanting..
+1531	Item Enchanting..
+1532	Enchant Scroll
+1533	Select Enchant Item
+1534	Castle / Fortress Privileges
+1535	To Fortress
+1536	Current Bid Price
+1537	X2 Bid
+1538	50% Bid
+1539	10% Bid
+1540	5% Bid
+1541	Health
+1542	Delay Reset
+1543	Summon
+1544	Kamael
+1545	Server Integration Guide
+1546	Radar Option
+1547	Hide Party
+1548	Show Monsters
+1549	Attribute Enchanter
+1550	Select Attribute Enchant Item
+1551	Normal Skill
+1552	Buff Skill
+1553	Debuff Skill
+1554	Toggle Skill
+1555	Song / Dance Skill
+1556	Hero Skill
+1557	Item Skill
+1558	Transform Skill
+1559	Use Expanded Sub-Key
+1560	Interface
+1561	Kamael Soldier
+1562	Kamael Soldier
+1563	Trooper
+1564	Warder
+1565	Berserker
+1566	Soul Breaker
+1567	Soul Breaker
+1568	Arbalester
+1569	Doombringer
+1570	Soul Hound
+1571	Soul Hound
+1572	Trickster
+1573	Inspector
+1574	Judicator
+1575	Available SP
+1576	Retained EXP
+1577	Refund Ratio
+1578	Refund SP
+1579	Enchant
+1580	Select Sub Unit
+1581	Display Settings
+1582	View Range Settings
+1583	Misc. Settings
+1584	Graphic Effect Settings
+1585	Control/Security
+1586	Game Performance
+1587	Audio
+1588	Game System
+1589	Display
+1590	Chat Settings
+1591	Layout Settings
+1592	Basic
+1593	Lower Display
+1594	Graphic Detail Settings
+1595	Attribute Enchant
+1596	Applying Elemental Attribute
+1597	s Servitor
+1598	Open All Pets/Servitors
+1599	Close All Pets/Servitors
+1600	Rare Item Auction
+1601	Use Improved Shader Effect
+1602	Use Out Focusing Effect
+1603	Use Realistic Water Effect
+1604	Use Realistic Shadow Effect
+1605	Fortress Info
+1606	Castle Name
+1607	Occupied Clan
+1608	Tax Rate
+1609	Next Siege Date
+1610	Fortress Name
+1611	Upper Level Castle
+1612	Current Status
+1613	War
+1614	Peace
+1615	Time Held
+1616	Clan Hall Info
+1617	Clan Hall Name
+1618	Acquired By
+1619	Show on Map
+1620	Atk. Attribute
+1621	Attribute Value
+1622	Fire
+1623	Water
+1624	Wind
+1625	Earth
+1626	Holy
+1627	Dark
+1628	Transform State
+1629	Attribute Value
+1630	Fire
+1631	Water
+1632	Wind
+1633	Earth
+1634	Holy
+1635	Dark
+1636	Right Bracelet
+1637	Left Bracelet
+1638	Talisman
+1639	Close System Tutorial
+1640	Close Help Window
+1641	Help Window Location
+1642	Upper Right Display
+1643	Upper Left Display
+1644	Lower Right Display
+1645	Lower Left Display
+1646	Screen Resolution Settings
+1647	Map of Hellbound
+1648	Rapier
+1649	Crossbow
+1650	Ancient Sword
+1651	Attribute Defense
+1652	Direct Input
+1653	CP
+1654	Remove Attribute
+1655	Select item below
+1656	Barracks Occupation:
+1657	Keypad 0
+1658	Keypad 1
+1659	Keypad 2
+1660	Keypad 3
+1661	Keypad 4
+1662	Keypad 5
+1663	Keypad 6
+1664	Keypad 7
+1665	Keypad 8
+1666	Keypad 9
+1667	Mouse Wheel Up
+1668	Mouse Wheel Down
+1669	Mouse Middle Button
+1670	Mouse Left Click
+1671	Mouse Right Click
+1672	Space Bar
+1673	Switch Language
+1674	Window Key
+1675	Application Key
+1676	\
+1677	Center
+1678	Show Location
+1679	Fixed Radar
+1680	Inventory Auto Arrange
+1681	Original
+1682	Regular Server(Age 18)
+1683	Regular Server
+1684	Relax Server
+1685	Character Creation Restricted
+1686	Unable to Show Region
+1687	Decrease Background Performance
+1688	View History
+1689	Update
+1690	Match Results
+1691	Kill
+1692	Notification
+1693	Cancel
+1694	Physical Skills
+1695	Magic Skills
+1696	Reinforcement Skills
+1697	Weaken Skills
+1698	Toggle Skill
+1699	Clan/Noblesse/Hero Skills
+1700	Item Skill
+1701	Transform Skills
+1702	Equipment Skills
+1703	Ability Skills
+1704	Race Skills
+1705	Occupation Skills
+1706	Auction
+1707	Prison
+1708	Command Barracks
+1709	Guard
+1710	Support Unit
+1711	Archer
+1712	Ballista
+1713	Control Room
+1714	Officer's Barracks
+1715	Occupation Status
+1716	None Occupation Status
+1717	Fortress Battle
+1718	Standby
+1719	Playing
+1720	Skill Route
+1721	<Related Quest>
+1722	Death
+1723	Change items
+1724	Cancel Auto-Notify
+1725	Keyword filtering
+1726	Notify with effect sound
+1727	Initialization
+1728	Start!
+1729	Restart
+1730	Mini-game
+1731	Continue
+1732	End Game
+1733	Time Out
+1734	Chg. Color Name
+1735	Chg. Color
+1736	Item List
+1737	Receive
+1738	Vitamin Item
+1739	<Limited time item>
+1740	Sender:
+1741	View Song/Dance Buffs
+1742	Use Feather
+1743	Manufacture Level
+1744	Kill Point
+1745	Match Results
+1746	Save My Location
+1747	My Location
+1748	Teleport Location
+1749	Saved Teleport List
+1750	Standard Value
+1751	Pink
+1752	Rose Pink
+1753	Lemon Yellow
+1754	Lilac
+1755	Cobalt Violet
+1756	Mint Green
+1757	Peacock Green
+1758	Yellow Ochre
+1759	Chocolate
+1760	Silver
+1761	My Teleports
+1762	Edit My Teleport
+1763	Delete My Teleport
+1764	Select Destination Icon Below
+1765	Dest
+1766	Depart
+1767	Airship Teleport
+1768	Gracia Continent
+1769	Aden Continent
+1770	Tracking
+1771	Quest Goal Point
+1772	Territory War Hallow
+1773	Cursed Weapon
+1774	Battlefield
+1775	Chatting Tip Quota
+1776	Territory War Info
+1777	Personnel
+1778	Clan
+1779	Territory Ward
+1780	Next Battle Date
+1781	Terr. Owner
+1782	Clan
+1783	Alliance
+1784	War (Date/Time)
+1785	Territories
+1786	Involvement
+1787	Approve Participation
+1788	Ind. Mercenary Participant Count
+1789	Dispatch to War Declaration Clan Count
+1790	Territory Name
+1791	Territory Emblem
+1792	Single
+1793	Repeat
+1794	Epic
+1795	Transfer
+1796	Special
+1797	Detailed Info
+1798	Abort Quest
+1799	Deny Party Req.
+1800	Create Command Channel Room
+1801	Move to Previous Chatting Type
+1802	Move to Next Chatting Type
+1803	Cancel Target
+1804	Move Focus to Chatting Window
+1805	Show Inventory
+1806	Hide All Windows
+1807	Close All Windows
+1808	Open GM Window
+1809	Open GM Petition Window
+1810	Show Party Buff
+1811	Apply Minimum Frame Function
+1812	Open MSN Messenger
+1813	Shortcut(Basic) - 1
+1814	Shortcut(Basic) - 2
+1815	Shortcut(Basic) - 3
+1816	Shortcut(Basic) - 4
+1817	Shortcut(Basic) - 5
+1818	Shortcut(Basic) - 6
+1819	Shortcut(Basic) - 7
+1820	Shortcut(Basic) - 8
+1821	Shortcut(Basic) - 9
+1822	Shortcut(Basic) - 10
+1823	Shortcut(Basic) - 11
+1824	Shortcut(Basic) - 12
+1825	Shortcut(Expanded1) - 1
+1826	Shortcut(Expanded1) - 2
+1827	Shortcut(Expanded1) - 3
+1828	Shortcut(Expanded1) - 4
+1829	Shortcut(Expanded1) - 5
+1830	Shortcut(Expanded1) - 6
+1831	Shortcut(Expanded1) - 7
+1832	Shortcut(Expanded1) - 8
+1833	Shortcut(Expanded1) - 9
+1834	Shortcut(Expanded1) - 10
+1835	Shortcut(Expanded1) - 11
+1836	Shortcut(Expanded1) - 12
+1837	Shortcut(Expanded2) - 1
+1838	Shortcut(Expanded2) - 2
+1839	Shortcut(Expanded2) - 3
+1840	Shortcut(Expanded2) - 4
+1841	Shortcut(Expanded2) - 5
+1842	Shortcut(Expanded2) - 6
+1843	Shortcut(Expanded2) - 7
+1844	Shortcut(Expanded2) - 8
+1845	Shortcut(Expanded2) - 9
+1846	Shortcut(Expanded2) - 10
+1847	Shortcut(Expanded2) - 11
+1848	Shortcut(Expanded2) - 12
+1849	To Shortcut Page(Basic) 1
+1850	To Shortcut Page(Basic) 2
+1851	To Shortcut Page(Basic) 3
+1852	To Shortcut Page(Basic) 4
+1853	To Shortcut Page(Basic) 5
+1854	To Shortcut Page(Basic) 6
+1855	To Shortcut Page(Basic) 7
+1856	To Shortcut Page(Basic) 8
+1857	To Shortcut Page(Basic) 9
+1858	To Shortcut Page(Basic) 10
+1859	Open/Close Action Window
+1860	Open/Close Bulletin Board
+1861	Open/Close Calculator
+1862	Show/Hide Chatting Window
+1863	Open/Close Clan
+1864	Open/Close Status Window
+1865	Open/Close Help
+1866	Open/Close Inventory
+1867	Open/Close Macro
+1868	Open/Close Skill Window
+1869	Show/Hide Menu
+1870	Open/Close Mini Map
+1871	Open/Close Option Window
+1872	Open/Close Party Matching Window
+1873	Open/Close Quest Window
+1874	Show/Hide Radar
+1875	Show/Hide Status Window
+1876	Open/Close System Menu
+1877	Do Not Show Drop Item
+1878	Send Whisper to Target Character
+1879	Mute all sounds
+1880	Toggle Shortcut Expand
+1881	Reset User Interface
+1882	Turn Left
+1883	Turn Right
+1884	Forward
+1885	Backward
+1886	Lock Move
+1887	Zoom-in Camera View
+1888	Zoom-out Camera View
+1889	Turn Camera View Front Back
+1890	Open GM Window
+1891	Open GM Petition Window
+1892	Toggle Shortcut Window
+1893	Fixed Camera View Forward
+1894	Fixed Camera View Backward
+1895	Reset Camera View to Defaults
+1896	Not In Use1
+1897	Not In Use1
+1898	Not In Use1
+1899	Not In Use1
+1951	Command Channel Leader
+1952	Chan. Invite
+1953	Channel Info
+1954	Command Channel Affiliated Party
+1955	Chat Filtering
+1956	Quota
+1957	Clan Sign Up
+1958	Merc Sign Up
+1959	Cancel Request
+1960	Merc. Cancel
+1961	%Hero
+1962	Command Channel
+1963	!Shout
+1964	^Battlefield
+1965	Current Height
+1966	Helm
+1967	No Controller
+1968	T
+1969	Team War
+1970	Dual Dagger
+1971	Summon Airship
+1972	Destroy
+1973	Keucereus Wharf
+1974	Seed of Infinity
+1975	Seed of Destruction
+1976	EP
+1977	Consume EP
+1978	Flying State
+1979	Aerial Cleft Entry Match
+1980	Block Checker Entry Match
+1981	Airship
+1982	Flying Transformed Object
+1983	Command Channel Matching
+1984	Matching
+1985	A new Command Channel room is being created.
+1986	Disable initializing right mouse button
+1987	Sickle
+1988	Ability/Attribute
+1989	Territory War
+1990	Supplies Safe
+1991	Territory Catapult
+1992	Battle Abilities
+1993	Event Server
+1994	To see both Inventory and Equipment windows
+1995	Reward
+1996	Energy
+1997	PvP Points
+1998	Epic Quest
+1999	Job Change Quest
+2000	Special Quest
+2001	Sec
+2002	Time Until Start
+2003	Red Team
+2004	Current Participants List
+2005	Blue Team
+2006	Rewards
+2007	Blue Team
+2008	Red Team
+2009	Territory War Status
+2010	Territory Name
+2011	War Status
+2012	Clan War Status
+2013	Not participating in a territory war
+2014	Territory War Participation Status
+2015	Needed Members
+2016	Guard Room- Waiting Area
+2017	Small Condenser
+2018	Vortex Gate
+2019	Large Condenser
+2020	True Input (above age 15)
+2021	Please enter the content of your inquiry in detail.
+2022	Stage 1
+2023	Stage 2
+2024	Please select the category.
+2025	Rude response
+2026	Inaccurate content
+2027	Not prompt handling
+2028	Refund
+2029	Sender
+2030	Expiration date
+2031	Send mail
+2032	Standard Skills
+2033	Need
+2034	Return
+2035	Possess
+2036	Current Skill
+2037	Modified Skill
+2038	Enchanting Options
+2039	Required Ingredients
+2040	This skill is currently not enchanted.
+2041	Skill not available to be enhanced Check skill's Lv and current PC status.
+2042	%
+2043	Choose box above to increase current skill route.
+2044	Choose box below for single SP refund.
+2045	"For blessed skill enhancement, check ""blessed enhance"" and select the button above."
+2046	"To restore the skill, select the restore button in the list."
+2047	Select one of the Enchant Options listed below.
+2048	Welcome to Skill Enchantment!
+2049	"To begin, please click and drag one of your highlighted skills into the slot on the left."
+2050	Blessed skill enchantment has been selected. Press the Blessed Enchant button at the bottom of the window when you are ready.
+2051	Skill enhancement has been selected. Press the enhance button.
+2052	Skill change has been selected. Press the change button.
+2053	The unenchant option has been selected. This option will refund a certain portion of the SP spent. Click on the Refund button below when you are ready.
+2054	Do you really wish to proceed?
+2055	Skill enhancement was successful.
+2056	The skill level was raised.
+2057	Blessed skill enhancement was successful.
+2058	Skill change was successful.
+2059	The skill was changed.
+2060	Restore was successful.
+2061	"The skill level dropped, but SP was returned."
+2062	Skill enhancement was not successful.
+2063	Standard skills were re-initialized.
+2064	Blessed skill enhancement was not successful.
+2065	"Due to the blessed skill enhancement, the skill level was maintained."
+2066	Enchant
+2067	Refund
+2068	Change Route
+2069	Blessed Enchant
+2070	Enchant Skill
+2071	Regular mail
+2072	Payment Request
+2073	****
+2074	Mailbox
+2075	Received Mail
+2076	Sent Mail
+2077	Mail Type
+2078	Sender
+2079	Message
+2080	Attached Items
+2081	Total weight
+2082	Payment Amount Requested
+2083	Items that can be forwarded in the inventory
+2084	Postage
+2085	Sum received in payment request
+2087	To
+2088	Claim items
+2089	Pay
+2090	Send back
+2091	Cancel
+2092	Cancel
+2093	Next Auction
+2094	Reply
+2095	Type
+2096	"You can only send or check mail while in a peace zone.\nWhen outside a peace zone, you will be notified when you receive mail.\nHowever, you will be unable to open your mailbox until you return to town.\nYour mailbox can also be accessed by using the /mailbox command."
+2097	Skill Enchant
+2098	How to use Skill enchanting
+2099	Validity
+2100	EULA Window Confirmation
+2101	ChinaWarnMsgOKButton
+2102	ServerSelectOKButton
+2103	BroadcastShowPartyWindow
+2104	BroadcastLockPosition
+2105	BroadcastInitPosition
+2106	BroadcastToggleShowClassOrName
+2107	BroadcastToggleTargetName
+2108	BroadcastSwitchMessageMode
+2109	BroadcastShowPartyWindow
+2110	BroadcastLockPosition
+2111	BroadcastInitPosition
+2112	BroadcastToggleShowClassOrName
+2113	BroadcastToggleTargetName
+2114	BroadcastSwitchMessageMode
+2115	ShowChatWindow
+2116	Shortcut (Personal Flight) - No 1
+2117	Shortcut (Personal Flight) - No 2
+2118	Shortcut (Personal Flight) - No 3
+2119	Shortcut (Personal Flight) - No 4
+2120	Shortcut (Personal Flight) - No 5
+2121	Shortcut (Personal Flight) - No 6
+2122	Shortcut (Personal Flight) - No 7
+2123	Shortcut (Personal Flight) - No 8
+2124	Shortcut (Personal Flight) - No 9
+2125	Shortcut (Personal Flight) - No 10
+2126	Shortcut (Personal Flight) - No 11
+2127	Shortcut (Personal Flight) - No 12
+2128	Shortcut (Airship Flight) - No 1
+2129	Shortcut (Airship Flight) - No 2
+2130	Shortcut (Airship Flight) - No 3
+2131	Shortcut (Airship Flight) - No 4
+2132	Shortcut (Airship Flight) - No 5
+2133	Shortcut (Airship Flight) - No 6
+2134	Shortcut (Airship Flight) - No 7
+2135	Shortcut (Airship Flight) - No 8
+2136	Shortcut (Airship Flight) - No 9
+2137	Shortcut (Airship Flight) - No 10
+2138	Shortcut (Airship Flight) - No 11
+2139	Shortcut (Airship Flight) - No 12
+2140	Execute Shortcut
+2141	Raise
+2142	Lower
+2143	Raise Airship Flight
+2144	Lower Airship Flight
+2145	Set Auto Forward
+2146	Not In Use1
+2147	Not In Use2
+2148	Not In Use3
+2149	Not In Use4
+2150	Not In Use5
+2151	Stop All Moving
+2152	Stop Airship Flight Moving
+2153	Community (Alt+B)
+2154	Macro(Alt+R)
+2155	Help
+2156	Petition
+2157	Options
+2158	Restart
+2159	Exit Game
+2160	Skills and Magic
+2161	Clan
+2162	Action
+2163	Quest
+2164	Character Status
+2165	Inventory
+2166	Map
+2167	System Menu
+2168	Chat Tab
+2169	Chat Filter
+2170	Messenger
+2171	Party Matching
+2172	Radar Options
+2173	Enlarge Radar
+2174	Reduce Radar
+2201	Received Mail
+2202	Sent Mail
+2203	The currently selected icon represents your skill at present. Please select another icon to modify your current skill enchant.
+2204	Choose other icon to change the route.
+2205	Refund List
+2206	Refund Amount
+2207	Current skill route listed above
+2208	"Restore the skill to the basic one before the enhancement "
+2209	"Return to the previous stage. "
+2210	This is your current skill. You need to choose a different icon in order to perform an action.
+2211	**News Informer**
+2212	Subject Name
+2213	<Stamp Effect>
+2214	<Enchant Effect>
+2215	Stamped
+2216	Posessions
+2217	Association Leader
+2218	Association Party Leader
+2219	Association Party Leader
+2220	Association Party Member
+2221	See Abnormal Status
+2222	Halloween Event
+2223	Previous Day Record
+2224	Current Record
+2225	Jack's Game Record (previous)
+2226	Jack's Game Record (current)
+2227	You are currently 1st!
+2228	Congratulations on being 1st!
+2250	Additional Bonus
+2251	Bonus Exp
+2252	Bonus Time
+2253	Can open and close the additional bonus window.
+2254	Can open and close the PC cafe points window.
+5001	Item Shop
+5002	Complete List
+5003	Best
+5004	Event
+5005	Enchant
+5006	Supplies
+5007	Decorating
+5008	Package
+5009	Others
+5010	Product List
+5011	Product Details
+5012	Points
+5013	Total Purchase Amount
+5014	Remaining Points
+5015	Recharge Point
+5016	Purchase
+5017	Balance after purchase
+5018	Purchase
+5019	Purchased items cannot be returned for cash.
+5020	Confirm purchase
+5021	PrimeShop
+5022	Eva's Inferno Event
+5023	High Priest's Letter
+5024	Small Scroll Chest
+5025	Large Scroll Chest
+5026	Chest of Experience
+5027	Remaining quantity
+5028	Daily Goods
+5029	Sale Hours
+5030	Show all
+5031	Recent purchase
+5032	Event item
+5033	Today's Event Item
+5034	Hour
+5035	Sale period
+5036	Halloween Event
+5037	Previous Day Record
+5038	Current Record
+5039	Jack Game Record (previous day)
+5040	Jack Game Record (current)
+5041	You are now 1st!
+5042	Congrats on 1st place!
+5043	Caring for Rudolph
+5044	Santa's Gift
+5045	Reward Information
+5046	Christmas Event
+5047	Rudolph Interface
+5048	Growth Time
+5049	Affection Lvl
+5050	Appetite
+5051	Baby Rudolph
+5052	Rudolph
+5053	Donateloph
+5054	Raphaeloph
+5055	Leonardoph
+5056	Michelangeloph
+5057	Rudolphina
+5058	My Best Ranking
+5059	My Best Score
+5060	The Lovers' Jubilee
+5061	Event Description
+5062	Event Petal/Essence
+5063	How to Use Rose Spirit
+5064	Related item
+5065	<Vitality Information>
+5066	Remaining Vitality/Total Vitality:
+5067	Agathion Resurrection
